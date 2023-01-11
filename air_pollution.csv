@@ -1,0 +1,91 @@
+City,Longitude,Latitude,Url,Pm10,Pm25,O3,No2,So2,Co
+Nowa Ruda,50.579914,16.514422,https://aqicn.org/city/poland/dolnoslaskie/nowa-ruda-srebrna,14,0,0.0,0.0,0.0,0.0
+Nowy Sącz,49.619281,20.714403,https://aqicn.org/city/poland/malopolska/nowy-sacz,11,52,19.2,4.7,4.7,0.1
+Przemyśl,49.78433889,22.75623889,https://aqicn.org/city/poland/podkarpacki/przemysl-ul.-grunwaldzka,14,45,16.1,4.0,2.3,0.0
+Tychy,50.099903,18.990236,https://aqicn.org/city/poland/slaski/tychy--ul.-tolstoja-1,6,0,0.0,7.4,3.0,0.0
+Zamość,50.7230879,23.2519686,https://aqicn.org/city/poland/lublin/zamosc,11,47,0.0,4.4,2.4,0.1
+Gorzów Wielkopolski,52.73821389,15.22866667,https://aqicn.org/city/poland/lubuski/gorzow-wielkopolski,38,102,1.0,18.3,5.8,0.1
+Jelenia Góra,50.91347,15.765659,https://aqicn.org/city/poland/dolnoslaskie/jelenia-gora-oginskiego,11,44,12.6,10.0,6.5,0.1
+Wrocław,51.086225,17.012689,https://aqicn.org/city/poland/dolnoslaskie/wroclaw-wisniowa,0,80,0.0,27.5,0.0,0.1
+Wałbrzych,50.768729,16.269677,https://aqicn.org/city/poland/dolnoslaskie/walbrzych-wysockiego,14,0,11.9,6.1,6.9,0.1
+Legnica,51.2045203,16.180513,https://aqicn.org/city/poland/dolnoslaskie/legnica-rzeczypospolitej,13,0,14.4,8.6,2.0,0.1
+Lębork,54.546219,17.74635,https://aqicn.org/city/poland/pomorski/lebork,7,27,17.8,3.1,0.0,1.8
+Kędzierzyn-Koźle,50.34960833,18.236575,https://aqicn.org/city/poland/opolski/k-kozle,7,18,16.9,5.8,3.5,0.1
+Gdańsk,54.353333333333,18.635277777778,https://aqicn.org/city/poland/gdansk/gdansk-srodmiescie,39,102,0.0,9.1,0.0,2.1
+Katowice,50.264611,18.975028,https://aqicn.org/city/poland/slaski/katowice--ul-kossutha-6,10,31,14.0,12.0,2.9,0.0
+Piła,53.15440833,16.75957222,https://aqicn.org/city/poland/wielkopolski/pila-ul.-kusocinskiego,40,0,0.0,10.7,0.0,0.1
+Szczecinek,53.6989,16.70457222,https://aqicn.org/city/poland/szczecinie/szczecinek-ul.-przemyslowa,38,0,0.0,13.0,1.3,0.1
+Tczew,54.085833333333,18.7875,https://aqicn.org/city/poland/gdansk/tczew,21,0,0.0,23.7,0.0,2.6
+Wodzisław Śląski,50.007629,18.455548,https://aqicn.org/city/poland/slaski/wodzislaw--galczynskiego-1,15,0,18.6,5.7,2.0,0.1
+Konin,52.22563333,18.26903611,https://aqicn.org/city/poland/wielkopolski/konin-ul.-wyszynskiego,38,0,5.4,11.6,0.0,0.0
+Dzierżoniów,50.732817,16.64805,https://aqicn.org/city/poland/dolnoslaskie/dzierzoniow-pilsudskiego,13,0,0.0,0.0,0.0,0.0
+Żyrardów,52.053887,20.430009,https://aqicn.org/city/poland/mazowieckie/zyrardow/roosevelta,35,99,22.6,0.3,1.1,0.0
+Zakopane,49.293564,19.960083,https://aqicn.org/city/poland/malopolska/zakopane,2,0,27.5,2.9,10.5,0.0
+Kościerzyna,54.119948,17.97702,https://aqicn.org/city/poland/pomorski/koscierzyna,4,15,0.0,3.3,0.0,0.0
+Suwałki,54.116056,22.93875,https://aqicn.org/city/poland/bialystok/suwalki-ul.-pulaskiego,0,56,0.0,0.0,0.0,0.0
+Legionowo,52.407648,20.955992,https://aqicn.org/city/poland/mazowieckie/legionowo/zegrzynska,28,80,6.0,10.9,1.7,1.1
+Trzebinia,50.159406,19.477464,https://aqicn.org/city/poland/malopolska/trzebinia,14,0,29.9,3.7,2.6,2.0
+Kłodzko,50.43352222,16.65361389,https://aqicn.org/city/poland/dolnoslaskie/klodzko-szkolna,16,60,11.6,6.4,0.0,0.0
+Cieszyn,49.738136,18.639069,https://aqicn.org/city/poland/slaski/cieszyn--ul.-mickiewicza-13,0,0,0.0,0.0,0.0,0.0
+Ząbkowice Śląskie,50.592325,16.819786,https://aqicn.org/city/poland/dolnoslaskie/zabkowice-slaskie,26,0,0.0,0.0,0.0,0.0
+Zabrze,50.3165,18.772375,https://aqicn.org/city/poland/slaski/zabrze--ul.-sklodowskiej-curie-34,28,0,12.2,12.8,9.4,0.1
+Poznań,52.42031944,16.87728889,https://aqicn.org/city/poland/wielkopolski/poznan-2-ogrod-botaniczny,40,115,1.0,19.2,7.3,0.1
+Bogatynia,50.940997,14.916694,https://aqicn.org/city/poland/dolnoslaskie/bogatynia-mobil,21,0,0.0,0.0,0.0,0.0
+Rzeszów,50.040711,22.004364,https://aqicn.org/city/poland/podkarpacki/rzeszow-pilsudskiego-wios,12,34,0.0,6.7,0.0,0.1
+Częstochowa,50.817676,19.117426,https://aqicn.org/city/poland/slaski/czestochowa--al.-armii-krajowej-3-komunikacyjna,31,0,0.0,20.4,0.0,0.1
+Łomża,53.1817812,22.0566504,https://aqicn.org/city/poland/bialystok/lomza-miejska,30,0,0.0,5.5,1.1,0.0
+Szczecin,53.43216944,14.5539,https://aqicn.org/city/poland/szczecinie/szczecin-ul.-pilsudskiego,17,63,0.0,14.5,2.2,0.1
+Słupsk,54.463341,17.046677,https://aqicn.org/city/poland/pomorski/slupsk,0,0,18.4,0.0,0.0,0.0
+Piastów,52.191789,20.837494,https://aqicn.org/city/poland/mazowieckie/piastow/pulaskiego,23,73,6.8,7.4,1.1,0.0
+Rybnik,50.111181,18.516139,https://aqicn.org/city/poland/slaski/rybnik--ul.-borki-37a,9,0,18.9,7.2,3.0,0.1
+Białystok,53.126815,23.1563701,https://aqicn.org/city/poland/bialystok/bialystok-miejska,0,42,0.0,4.4,0.0,0.0
+Zielona Góra,51.93978333,15.51886111,https://aqicn.org/city/poland/lubuski/zielona-gora,18,50,8.0,4.3,7.3,0.1
+Jasło,49.74488611,21.45461667,https://aqicn.org/city/poland/podkarpacki/jaslo-ul.-sikorskiego,16,32,8.1,3.9,0.3,0.0
+Płock,52.556206,19.687706,https://aqicn.org/city/poland/mazowieckie/plock/gimnazjum,14,51,6.6,5.9,1.6,5.5
+Opole,50.666736,17.899137,https://aqicn.org/city/poland/opolski/opole,16,46,0.0,0.0,0.0,0.0
+Knurów,50.279333,18.655764,https://aqicn.org/city/poland/slaski/gliwice--ul.-mewy-34,7,0,0.0,0.0,5.5,0.0
+Zgierz,51.856692,19.421231,https://aqicn.org/city/poland/lodz/zgierz--ul.-mielczarskiego-1,25,59,6.8,14.1,1.8,0.1
+Dębica,50.054786,21.416256,https://aqicn.org/city/poland/podkarpacki/debica-grottgera-wios,14,54,0.0,0.0,0.0,0.0
+Otwock,52.115772,21.237078,https://aqicn.org/city/poland/mazowieckie/otwock/brzozowa,22,68,11.6,5.0,1.4,0.1
+Nisko,50.52989167,22.11246667,https://aqicn.org/city/poland/podkarpacki/nisko-ul.-szklarniowa,27,72,8.1,7.3,0.0,1.8
+Lublin,51.258828,22.570467,https://aqicn.org/city/poland/lublin/lublin-ul.obywatelska,31,90,6.0,13.3,6.1,0.1
+Jarosław,50.012083,22.674772,https://aqicn.org/city/poland/podkarpacki/jaroslaw-pwste-wios,19,61,0.0,0.0,0.0,0.0
+Kalisz,51.74905278,18.04838889,https://aqicn.org/city/poland/wielkopolski/kalisz-ul.hanki-sawickiej,9,24,41.3,3.0,0.8,0.1
+Warszawa,52.225171,21.014783,https://aqicn.org/city/poland/mazowieckie/warszawa/marszalkowska,22,67,12.0,14.9,2.0,0.1
+Mielec,50.300761,21.434331,https://aqicn.org/city/poland/podkarpacki/mielec-mosir-wios,0,0,0.0,0.0,0.0,0.0
+Ustroń,49.71972222,18.82658333,https://aqicn.org/city/poland/slaski/ustron--sanatoryjna-7,4,0,24.5,2.9,1.3,0.0
+Sopot,54.431666666667,18.579722222222,https://aqicn.org/city/poland/gdansk/sopot,32,94,0.0,9.4,4.7,4.3
+Toruń,53.0175,18.612777777778,https://aqicn.org/city/poland/bydgoszcz/torun-kaszownik,39,110,3.0,11.9,3.8,0.1
+Sosnowiec,50.285956,19.184399,https://aqicn.org/city/poland/slaski/sosnowiec--ul.-lubelska-51,12,0,0.0,11.4,0.0,0.0
+Koszalin,54.19398611,16.17254444,https://aqicn.org/city/poland/szczecinie/koszalin-ul.-armii-krajowej,31,0,0.0,10.0,0.0,0.0
+Kielce,50.8725,20.605,https://aqicn.org/city/poland/swietokrzyski/kielce-ul.-jagiellonska,0,0,0.0,0.0,0.0,0.0
+Żywiec,49.671602,19.234446,https://aqicn.org/city/poland/slaski/zywiec--ul.-kopernika-84,2,0,0.0,4.6,5.1,0.0
+Dąbrowa Górnicza,50.32888889,19.23111111,https://aqicn.org/city/poland/slaski/dabrowa-gornicza--ul.-tysiaclecia-25a,29,0,8.1,20.6,5.1,0.1
+Grudziądz,53.493333333333,18.761944444444,https://aqicn.org/city/poland/bydgoszcz/airp.-grudziadz,52,0,25.0,4.2,4.6,0.1
+Siedlce,52.172033,22.282236,https://aqicn.org/city/poland/mazowieckie/siedlce/konarskiego,18,63,0.0,0.0,0.0,0.0
+Kraków,50.057447,19.946008,https://aqicn.org/city/poland/malopolska/krakow-ul.-dietla,58,103,4.0,23.8,5.4,0.1
+Skawina,49.971047,19.830422,https://aqicn.org/city/poland/malopolska/skawina,34,75,0.8,30.6,4.7,0.1
+Żary,51.64265556,15.12780833,https://aqicn.org/city/poland/lubuski/zary,2,4,12.8,11.1,22.0,0.1
+Pabianice,51.667981,19.368683,https://aqicn.org/city/poland/lodz/pabianice--ul.-konstantynowska,30,0,6.6,14.4,0.0,0.0
+Starogard Gdański,53.9658,18.5279,https://aqicn.org/city/poland/pomorski/starogard-gdanski,15,0,0.0,4.0,0.0,6.8
+Włocławek,52.658611111111,19.059166666667,https://aqicn.org/city/poland/bydgoszcz/wloclawek-okrzei,53,151,3.7,11.9,3.8,0.1
+Olkusz,50.277569,19.569869,https://aqicn.org/city/poland/malopolska/olkusz,0,188,0.0,0.0,0.0,0.0
+Gdynia,54.560833333333,18.493333333333,https://aqicn.org/city/poland/gdansk/gdynia-pogorze,36,105,3.1,11.5,3.6,4.0
+Gliwice,50.279333,18.655764,https://aqicn.org/city/poland/slaski/gliwice--ul.-mewy-34,7,0,0.0,0.0,5.5,0.0
+Łódź,51.775411,19.4509,https://aqicn.org/city/poland/lodz/lodz-gdanska-16,22,0,0.0,18.8,2.9,0.0
+Tarnów,50.018263,20.99258,https://aqicn.org/city/poland/malopolska/tarnow-ul.-ks.-romana-sitko,15,52,19.2,7.0,6.2,0.1
+Świdnica,50.846559,16.466928,http://aqicn.org/city/poland/dolnoslaskie/swidnica-marcinkowskiego/,0,0,0.0,0.0,0.0,0.0
+Piotrków Trybunalski,51.404406,19.696956,https://aqicn.org/city/poland/lodz/piotrkow--ul.-krakowskie-przedmiescie-13,27,0,7.8,11.7,0.0,0.1
+Malbork,54.031129,19.03278,https://aqicn.org/city/poland/pomorski/malbork,1,0,14.3,7.3,1.6,5.2
+Bielsko-Biała,49.802089,19.048629,https://aqicn.org/city/poland/slaski/bielsko-biala--ul.-partyzantow,0,17,0.0,12.3,0.0,0.1
+Inowrocław,52.793055555556,18.240833333333,https://aqicn.org/city/poland/bydgoszcz/airp.-inowroclaw,38,0,3.0,12.6,3.7,0.1
+Bydgoszcz,53.133888888889,17.995555555556,https://aqicn.org/city/poland/bydgoszcz/bydgoszcz-warszawska,45,95,1.3,14.2,5.0,1.9
+Biała Podlaska,52.0387126,23.1445026,https://aqicn.org/city/poland/lublin/biala-podlaska,21,0,9.3,6.4,11.4,0.0
+Radom,51.399089,21.147484,https://aqicn.org/city/poland/mazowieckie/radom/tochtermana,17,59,11.7,9.7,1.7,0.1
+Piaseczno,52.160838,21.033815,https://aqicn.org/city/poland/mazowieckie/warszawa/ursynow,20,67,8.4,9.1,2.5,1.9
+Knurów,50.279333,18.655764,https://aqicn.org/city/poland/slaski/gliwice--ul.-mewy-34,7,0,0.0,0.0,5.5,0.0
+Suwałki,54.116056,22.93875,https://aqicn.org/city/poland/bialystok/suwalki-ul.-pulaskiego,0,56,0.0,0.0,0.0,0.0
+Police,53.47088889,14.55625,https://aqicn.org/city/poland/szczecinie/szczecin-ul.-laczna,0,0,0.0,0.0,0.0,0.0
+Lębork,54.546219,17.74635,https://aqicn.org/city/poland/pomorski/lebork,7,27,17.8,3.1,0.0,1.8
+Żary,51.64265556,15.12780833,https://aqicn.org/city/poland/lubuski/zary,2,4,12.8,11.1,22.0,0.1
+Zielona Góra,51.93978333,15.51886111,https://aqicn.org/city/poland/lubuski/zielona-gora,18,50,8.0,4.3,7.3,0.1
