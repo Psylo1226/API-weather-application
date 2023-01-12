@@ -76,12 +76,6 @@ def air_pollution():
     dataframe1.to_csv('air_pollution.csv', index=False, encoding='utf-8')
     return
 
-    schedule.every(1).hour.do(air_pollution)
-
-    while True:
-        schedule.run_pending()
-        time.sleep(60)
-
 
 if __name__ == '__main__':
     air_pollution()

@@ -13,7 +13,7 @@ class Map:
                             zoom_start=6,
                             scroolWheelZoom=False,
                             tiles='OpenStreetMap')
-        self.df = pd.read_csv('weather.csv', encoding='utf-8')
+        self.df = pd.read_csv('weather.csv')
 
     def distribution(self, data):
         folium.Choropleth(
@@ -210,7 +210,7 @@ class Stations(Map):
 
 class Editors:
     def __init__(self):
-        self.df = pd.read_csv('weather.csv', encoding='utf-8')
+        self.df = pd.read_csv('weather.csv')
         self.df_country = 'A00_Granice_panstwa.geojson'
         self.df_province = 'A01_Granice_wojewodztw.geojson'
         self.df_counties = 'A02_Granice_powiatow.geojson'

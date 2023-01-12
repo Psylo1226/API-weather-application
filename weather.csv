@@ -1,437 +1,437 @@
 City,Longitude,Latitude,Temperature_cel,Temperature_fah,Feels_like_cel,Feels_like_fah,Wind_speed,Humidity,Pressure,Degree,Description,Sunrise_time,Sunset_time,Voivodeship,Province
- Brzeg Głogowski,15.9154,51.6969,4.27,39.69,1.4,34.52,3.32,88,1008,248, overcast clouds,07:59:54, 16:07:01,dolnośląskie,powiat głogowski
- Starogard Gdański,18.5264,53.964,3.88,38.98,1.03,33.85,3.17,95,1006,255, overcast clouds,08:00:46, 15:45:15,pomorskie,powiat starogardzki
- Pułtusk,21.0828,52.7025,6.21,43.18,4.26,39.67,2.59,93,1007,249, overcast clouds,07:44:05, 15:41:30,mazowieckie,powiat pułtuski
- Legionowo,20.9266,52.4015,6.18,43.12,3.86,38.95,3.09,95,1006,240, mist,07:43:14, 15:43:36,mazowieckie,powiat legionowski
- Kędzierzyn-Koźle,18.2261,50.3498,5.66,42.19,3.26,37.87,3.05,85,1008,343, light rain,07:44:36, 16:03:50,opolskie,powiat kędzierzyńsko-kozielki
- Kętrzyn,21.3753,54.0768,3.72,38.7,1.23,34.21,2.68,99,1006,207, overcast clouds,07:49:59, 15:33:14,warmińsko-mazurskie,powiat kętrzyński
- Jędrzejów,20.3045,50.6394,3.97,39.15,1.31,34.36,2.95,95,1006,335, overcast clouds,07:37:33, 15:54:14,świętokrzyskie,powiat jędrzejewski
- Trzebnica,17.0633,51.3108,4.62,40.32,2.37,36.27,2.59,88,1008,274, overcast clouds,07:53:32, 16:04:12,dolnośląskie,powiat trzebnicki
- Szczawno-Zdrój,16.2566,50.8035,4.47,40.05,3.01,37.42,1.77,84,1008,236, overcast clouds,07:54:28, 16:09:43,dolnośląskie,powiat Wałbrzych
- Proszowice,20.2891,50.1927,5.87,42.57,3.6,38.48,2.93,99,1007,360, overcast clouds,07:35:40, 15:56:15,małopolskie,powiat proszowicki
- Stalowa Wola,22.0533,50.5829,5.07,41.13,4.25,39.65,1.34,84,1005,138, overcast clouds,07:30:19, 15:47:29,podkarpackie,powiat stalowowolski
- Jasło,21.4725,49.7451,5.53,41.95,4.31,39.76,1.7,91,1007,185, overcast clouds,07:29:02, 15:53:25,podkarpackie,powiat jasielski
- Nidzica,20.4275,53.3605,4.77,40.59,2.52,36.54,2.63,98,1006,251, overcast clouds,07:50:01, 15:40:48,warmińsko-mazurskie,powiat nidzicki
- Sokolec,16.4731,50.6544,3.24,37.83,1.7,35.06,1.68,90,1008,240, overcast clouds,07:52:56, 16:09:31,dolnośląskie,powiat kłodzki
- Opole,18.0,50.5,4.46,40.03,2.43,36.37,2.31,86,1008,334, overcast clouds,07:46:09, 16:04:05,opolskie,powiat krapkowicki
- Jarczew,21.9569,51.8144,5.86,42.55,4.56,40.21,1.82,91,1007,225, overcast clouds,07:36:18, 15:42:16,lubelskie,powiat łukowski
- Nieszawa,18.8992,52.8345,4.48,40.06,2.01,35.62,2.83,95,1007,271, overcast clouds,07:53:28, 15:49:35,kujawsko-pomorskie,powiat aleksandrowski
- Tarnów,20.987,50.0138,5.4,41.72,5.4,41.72,0.55,87,1007,128, overcast clouds,07:32:07, 15:54:14,małopolskie,powiat Tarnów
- Szczawnica,20.4849,49.4244,4.77,40.59,4.77,40.59,0.96,97,1006,29, light rain,07:31:38, 15:58:43,małopolskie,powiat nowotarski
- Parzniewice,19.5171,51.2982,4.89,40.8,2.9,37.22,2.35,95,1008,300, overcast clouds,07:43:40, 15:54:26,łódzkie,powiat piotrkowski
- Gryfice,15.2003,53.9165,5.57,42.03,3.39,38.1,2.73,92,1006,206, light rain,08:13:49, 15:58:49,zachodniopomorskie,powiat gryficki
- Sanok,22.2056,49.5557,5.29,41.52,5.29,41.52,1.14,100,1007,153, light rain,07:25:18, 15:51:17,podkarpackie,powiat sanocki
- Widuchowa,14.3907,53.1269,4.2,39.56,1.14,34.05,3.58,87,1006,215, overcast clouds,08:12:57, 16:06:10,zachodniopomorskie,powiat gryfiński
- Bogatynia,14.9563,50.9075,4.76,40.57,4.76,40.57,0.89,84,1006,272, overcast clouds,08:00:08, 16:14:28,dolnośląskie,powiat zgorzelecki
- Ostrowiec Świętokrzyski,21.3853,50.9294,5.38,41.68,5.38,41.68,1.08,93,1007,341, overcast clouds,07:34:31, 15:48:37,świętokrzyskie,powiat ostrowiecki
- Kostrza,16.2649,50.9851,5.46,41.83,3.44,38.19,2.51,85,1009,251, overcast clouds,07:55:15, 16:08:53,dolnośląskie,powiat świdnicki
- Brześć Kujawski,18.9017,52.6053,4.36,39.85,1.88,35.38,2.82,95,1007,272, overcast clouds,07:52:19, 15:50:42,kujawsko-pomorskie,powiat włocławski
- Przemyśl,22.7673,49.785,5.62,42.12,3.87,38.97,2.23,90,1007,119, overcast clouds,07:24:01, 15:48:04,podkarpackie,powiat Przemyśl
- Międzyrzecz,15.578,52.4446,5.93,42.67,3.84,38.91,2.71,93,1007,243, overcast clouds,08:04:49, 16:04:48,lubuskie,powiat międzyrzecki
- Katowice,19.0275,50.2584,5.27,41.49,5.27,41.49,0.89,92,1006,348, overcast clouds,07:41:00, 16:01:01,śląskie,powiat Katowice
- Korsze,21.1392,54.17,4.13,39.43,1.75,35.15,2.64,98,1006,213, overcast clouds,07:51:26, 15:33:41,warmińsko-mazurskie,powiat kętrzyński
- Dorohusk,23.8032,51.1548,3.84,38.91,0.26,32.47,4.29,85,1009,148, overcast clouds,07:25:52, 15:37:56,lubelskie,powiat chełmski
- Sochaczew,20.2384,52.2294,5.75,42.35,3.78,38.8,2.51,93,1007,261, overcast clouds,07:45:09, 15:47:11,mazowieckie,powiat sochaczewski
- Międzyrzec Podlaski,22.7825,51.9864,5.36,41.65,3.0,37.4,2.91,91,1008,167, overcast clouds,07:33:49, 15:38:09,lubelskie,powiat bialski
- Koszalin,16.1722,54.1944,3.32,37.98,0.45,32.81,3.05,95,1006,218, broken clouds,08:11:25, 15:53:26,zachodniopomorskie,powiat Koszalin
- Prudnik,17.5746,50.3212,5.09,41.16,3.31,37.96,2.16,87,1008,318, overcast clouds,07:47:05, 16:06:34,opolskie,powiat prudnicki
- Polańczyk,22.4211,49.3697,3.78,38.8,3.78,38.8,1.3,100,1007,135, overcast clouds,07:23:40, 15:51:12,podkarpackie,powiat leski
- Krempna,21.5004,49.5113,4.04,39.27,1.67,35.01,2.61,100,1007,174, light rain,07:27:56, 15:54:17,podkarpackie,powiat jasielski
- Zamość,23.252,50.7231,5.34,41.61,2.78,37.0,3.19,85,1008,134, overcast clouds,07:26:08, 15:42:04,lubelskie,powiat Zamość
- Kołuda Wielka,18.1489,52.7344,2.87,37.17,-0.12,31.78,3.09,96,1007,271, overcast clouds,07:55:58, 15:53:05,kujawsko-pomorskie,powiat inowrocławski
- Andrychów,19.3383,49.855,4.07,39.33,1.68,35.02,2.64,95,1007,344, light rain,07:38:02, 16:01:30,małopolskie,powiat wadowicki
- Środa Śląska,16.5951,51.1641,5.01,41.02,2.53,36.55,2.99,83,1008,266, overcast clouds,07:54:44, 16:06:45,dolnośląskie,powiat średzki
- Chełmża,18.6047,53.1846,4.07,39.33,1.51,34.72,2.85,98,1007,255, overcast clouds,07:56:24, 15:49:00,kujawsko-pomorskie,powiat toruński
- Częstochowa,19.1241,50.7965,3.04,37.47,0.27,32.49,2.85,91,1008,327, overcast clouds,07:42:58, 15:58:16,śląskie,powiat Częstochowa
- Ostróda,19.9649,53.6967,4.33,39.79,1.99,35.58,2.64,98,1006,249, overcast clouds,07:53:37, 15:40:54,warmińsko-mazurskie,powiat ostródzki
- Kamień Pomorski,14.7726,53.9685,3.09,37.56,0.22,32.4,2.99,92,1005,218, broken clouds,08:15:48, 16:00:15,zachodniopomorskie,powiat kamieński
- Będzin,19.1257,50.3261,5.26,41.47,3.61,38.5,2.06,92,1006,300, mist,07:40:54, 16:00:20,śląskie,powiat będziński
- Żywiec,19.1924,49.6853,3.87,38.97,1.61,34.9,2.45,100,1007,352, light rain,07:37:54, 16:02:48,śląskie,powiat żywiecki
- Glitajny,21.1575,54.1867,4.18,39.52,1.81,35.26,2.64,98,1006,212, overcast clouds,07:51:27, 15:33:31,warmińsko-mazurskie,powiat kętrzyński
- Chodecz,19.0276,52.4051,3.8,38.84,1.33,34.39,2.67,95,1007,269, overcast clouds,07:50:50, 15:51:11,kujawsko-pomorskie,powiat włocławski
- Giżycko,21.7644,54.0381,3.12,37.62,0.45,32.81,2.75,99,1006,190, overcast clouds,07:48:13, 15:31:53,warmińsko-mazurskie,powiat giżycki
- Brodnica,19.3965,53.2597,5.7,42.26,3.56,38.41,2.71,96,1006,257, overcast clouds,07:53:37, 15:45:27,kujawsko-pomorskie,powiat brodnicki
- Mieczysławów,21.6559,51.3687,5.65,42.17,4.77,40.59,1.44,90,1007,270, overcast clouds,07:35:26, 15:45:33,mazowieckie,powiat zwoleński
- Kobierzyce,16.9351,50.9705,5.05,41.09,2.9,37.22,2.57,87,1007,230, broken clouds,07:52:30, 16:06:15,dolnośląskie,powiat wrocławski
- Niepołomice,20.2226,50.0407,6.03,42.85,4.6,40.28,1.97,92,984,0, light rain,07:35:17, 15:57:10,małopolskie,powiat wielicki
- Włodawa,23.55,51.55,3.86,38.95,0.43,32.77,4.05,87,1008,155, overcast clouds,07:28:42, 15:37:08,lubelskie,powiat włodawski
- Miasteczko Śląskie,18.9395,50.5026,4.79,40.62,3.06,37.51,2.06,93,1006,300, mist,07:42:25, 16:00:18,śląskie,powiat tarnogórski
- Chełm,23.4716,51.1431,3.83,38.89,0.39,32.7,4.06,86,1008,149, overcast clouds,07:27:09, 15:39:18,lubelskie,powiat Chełm
- Żukowice,15.9815,51.673,2.06,35.71,-1.16,29.91,3.17,88,1008,248, overcast clouds,07:59:32, 16:06:52,dolnośląskie,powiat głogowski
- Kęty,19.2233,49.8821,4.38,39.88,1.93,35.47,2.78,100,1007,347, light rain,07:38:36, 16:01:51,małopolskie,powiat oświęcimski
- Ozorków,19.2914,51.9634,4.68,40.42,2.44,36.39,2.59,97,1007,266, overcast clouds,07:47:40, 15:52:15,łódzkie,powiat zgierski
- Świdnik,22.6962,51.219,4.94,40.89,4.94,40.89,1.03,93,1007,130, overcast clouds,07:30:35, 15:42:04,lubelskie,powiat świdnicki
- Kutno,19.3641,52.2306,4.22,39.6,1.77,35.19,2.74,95,1007,272, overcast clouds,07:48:39, 15:50:41,łódzkie,powiat kutnowski
- Iława,19.5685,53.596,5.48,41.86,3.44,38.19,2.54,97,1006,251, overcast clouds,07:54:40, 15:43:01,warmińsko-mazurskie,powiat iławski
- Żagań,15.3149,51.6176,3.7,38.66,0.26,32.47,4.01,89,1008,255, overcast clouds,08:01:56, 16:09:47,lubuskie,powiat żagański
- Nowa Sól,15.717,51.8033,4.36,39.85,1.27,34.29,3.68,89,1008,249, overcast clouds,08:01:12, 16:07:19,lubuskie,powiat nowosolski
- Zambrów,22.2432,52.9855,4.16,39.49,1.62,34.92,2.84,97,1007,167, overcast clouds,07:40:51, 15:35:26,podlaskie,powiat zambrowski
- Horyniec-Zdrój,23.3628,50.1915,5.1,41.18,2.84,37.11,2.72,84,1008,129, overcast clouds,07:23:22, 15:43:57,podkarpackie,powiat lubaczowski
- Wadowice,19.4929,49.8834,4.94,40.89,2.69,36.84,2.67,96,1007,339, light rain,07:37:32, 16:00:46,małopolskie,powiat wadowicki
- Jasna Góra,14.9589,50.8734,4.05,39.29,2.51,36.52,1.78,84,1009,236, overcast clouds,07:59:58, 16:14:36,dolnośląskie,powiat zgorzelecki
- Ustrzyki Dolne,22.5938,49.4304,3.96,39.13,2.92,37.26,1.39,100,1007,128, overcast clouds,07:23:14, 15:50:15,podkarpackie,powiat bieszczadzki
- Szczytno,20.9875,53.5626,4.96,40.93,3.26,37.87,2.06,100,1005,230, light intensity drizzle,07:48:49, 15:37:31,warmińsko-mazurskie,powiat szczycieński
- Czarna,21.2561,50.0672,7.85,46.13,7.85,46.13,1.31,87,1007,150, overcast clouds,07:31:16, 15:52:55,podkarpackie,powiat dębicki
- Sopot,18.56,54.4418,4.81,40.66,1.56,34.81,4.12,95,1004,270, broken clouds,08:03:14, 15:42:32,pomorskie,powiat Sopot
- Miechów,20.0279,50.3565,5.6,42.08,2.7,36.86,3.81,92,1007,344, light rain,07:37:25, 15:56:35,małopolskie,powiat miechowski
- Gajew,19.7558,52.2289,5.31,41.56,2.99,37.38,2.85,95,1007,271, overcast clouds,07:47:04, 15:49:07,łódzkie,powiat giżycki
- Zielonka,21.1602,52.3038,6.03,42.85,4.65,40.37,1.92,93,1007,253, overcast clouds,07:41:49, 15:43:08,mazowieckie,powiat wołomiński
- Racibórz,18.2193,50.0919,5.44,41.79,2.9,37.22,3.19,94,1008,358, light rain,07:43:31, 16:04:58,śląskie,powiat raciborski
- Wąbrzeźno,18.9477,53.2799,5.44,41.79,3.17,37.71,2.81,93,1006,259, overcast clouds,07:55:31, 15:47:08,kujawsko-pomorskie,powiat wąbrzeski
- Wolbrom,19.7583,50.3796,4.89,40.8,1.64,34.95,4.15,92,1007,343, overcast clouds,07:38:36, 15:57:34,małopolskie,powiat olkuski
- Konstancin-Jeziorna,21.1176,52.0938,6.04,42.87,2.81,37.06,4.63,92,997,280, broken clouds,07:40:59, 15:44:19,mazowieckie,powiat piaseczeński
- Kielce,20.6275,50.8703,4.97,40.95,3.46,38.23,1.88,40,993,334, overcast clouds,07:37:17, 15:51:55,świętokrzyskie,powiat Kielce
- Chojnów,15.9366,51.2737,4.87,40.77,1.42,34.56,4.51,85,1009,256, overcast clouds,07:57:52, 16:08:53,dolnośląskie,powiat legnicki
- Golub-Dobrzyń,19.0538,53.1109,4.71,40.48,2.29,36.12,2.82,94,1006,262, overcast clouds,07:54:14, 15:47:34,kujawsko-pomorskie,powiat golubsko-dobrzyński
- Pleszew,17.7855,51.8964,3.85,38.93,1.43,34.57,2.62,93,1008,275, overcast clouds,07:53:22, 15:58:35,wielkopolskie,powiat pleszewski
- Grajewo,22.4554,53.6473,2.7,36.86,-0.29,31.48,3.04,98,1007,165, overcast clouds,07:43:24, 15:31:11,podlaskie,powiat grajewski
- Maków Mazowiecki,21.1005,52.8649,5.89,42.6,3.83,38.89,2.65,96,1007,246, overcast clouds,07:44:49, 15:40:37,mazowieckie,powiat makowski
- Łęczna,22.8814,51.3012,5.17,41.31,5.17,41.31,1.03,93,1007,130, overcast clouds,07:30:13, 15:40:57,lubelskie,powiat łęczyński
- Bielsk Podlaski,23.1865,52.7651,2.67,36.81,-1.43,29.43,4.72,93,1008,159, overcast clouds,07:35:59, 15:32:46,podlaskie,powiat bielski
- Opatów,21.4254,50.8006,5.37,41.67,5.37,41.67,0.66,93,1007,351, overcast clouds,07:33:47, 15:49:02,świętokrzyskie,powiat opatowski
- Wieliczka,20.0647,49.9874,5.78,42.4,4.79,40.62,1.54,90,1006,356, light rain,07:35:41, 15:58:02,małopolskie,powiat wielicki
- Łeba,17.5555,54.761,4.77,40.59,0.96,33.73,5.19,100,1005,256, overcast clouds,08:09:01, 15:44:47,pomorskie,powiat lęborski
- Dobrzyń nad Wisłą,19.3188,52.6381,4.37,39.87,2.07,35.73,2.6,95,1007,270, overcast clouds,07:50:49, 15:48:52,kujawsko-pomorskie,powiat lipnowski
- Lubaczów,23.1234,50.157,4.17,39.51,1.59,34.86,2.89,85,1008,128, overcast clouds,07:24:11, 15:45:03,podkarpackie,powiat lubaczowski
- Zameczno,15.9297,51.6708,1.96,35.53,-1.38,29.52,3.29,88,1008,248, overcast clouds,07:59:44, 16:07:05,dolnośląskie,powiat głogowski
- Kłodzko,16.6614,50.4349,4.34,39.81,3.29,37.92,1.43,91,1009,255, overcast clouds,07:51:13, 16:09:43,dolnośląskie,powiat kłodzki
- Białystok,23.15,53.1333,3.19,37.74,1.01,33.82,2.24,96,1007,134, overcast clouds,07:37:58, 15:31:03,podlaskie,powiat Białystok
- Kartuzy,18.1974,54.3342,3.6,38.48,0.07,32.13,4.12,98,1004,270, broken clouds,08:04:05, 15:44:34,pomorskie,powiat kartuski
- Dębno,14.698,52.739,4.01,39.22,1.6,34.88,2.65,92,1007,218, broken clouds,08:09:47, 16:06:53,zachodniopomorskie,powiat myśliborski
- Opoczno,20.2783,51.3757,5.51,41.92,3.56,38.41,2.44,94,1007,289, overcast clouds,07:40:58, 15:51:02,łódzkie,powiat opoczyński
- Ełk,22.3647,53.8282,2.43,36.37,-0.4,31.28,2.78,99,1007,167, overcast clouds,07:44:42, 15:30:36,warmińsko-mazurskie,powiat ełcki
- Gubin,14.7284,51.9496,5.23,41.41,2.14,35.85,4.0,90,1008,247, overcast clouds,08:05:50, 16:10:35,lubuskie,powiat krośnieński
- Końskie,20.4061,51.1917,4.77,40.59,2.79,37.02,2.32,93,1007,302, overcast clouds,07:39:37, 15:51:22,świętokrzyskie,powiat konecki
- Mogilno,17.9558,52.6581,2.79,37.02,-0.08,31.86,2.92,96,1002,268, overcast clouds,07:56:22, 15:54:14,kujawsko-pomorskie,powiat mogileński
- Kraśnik,22.2271,50.9236,4.72,40.5,2.99,37.38,2.05,88,1007,179, overcast clouds,07:31:08, 15:45:17,lubelskie,powiat kraśnicki
- Piotrkowice,16.7273,52.1415,3.63,38.53,1.06,33.91,2.75,93,1007,251, overcast clouds,07:58:46, 16:01:40,wielkopolskie,powiat kościański
- Pruszków,20.8121,52.1707,6.0,42.8,2.76,36.97,4.63,94,998,280, broken clouds,07:42:34, 15:45:10,mazowieckie,powiat pruszkowski
- Działoszyn,18.8652,51.117,2.64,36.75,0.05,32.09,2.56,93,1008,306, overcast clouds,07:45:27, 15:57:52,łódzkie,powiat pajęczański
- Skawina,19.8287,49.9752,6.03,42.85,6.03,42.85,1.03,89,1006,300, light rain,07:36:35, 15:59:02,małopolskie,powiat krakowski
- Ruda Śląska,18.8563,50.2584,5.31,41.56,4.52,40.14,1.34,92,1005,311, overcast clouds,07:41:41, 16:01:42,śląskie,powiat Ruda Śląska
- Sokołów Podlaski,22.2531,52.4068,4.73,40.51,2.33,36.19,2.81,95,1007,180, overcast clouds,07:37:57, 15:38:15,mazowieckie,powiat sokołowski
- Gryfino,14.4883,53.2524,4.37,39.87,1.33,34.39,3.6,92,1006,214, overcast clouds,08:13:12, 16:05:08,zachodniopomorskie,powiat gryfiński
- Cieszyn,18.6321,49.7513,4.47,40.05,1.55,34.79,3.45,91,1008,7, light rain,07:40:25, 16:04:46,śląskie,powiat cieszyński
- Siedlce,22.2901,52.1677,5.11,41.2,2.98,37.36,2.56,94,1007,184, overcast clouds,07:36:39, 15:39:16,mazowieckie,powiat Siedlce
- Łowicz,19.9453,52.1071,5.35,41.63,3.04,37.47,2.85,95,1007,269, overcast clouds,07:45:44, 15:48:56,łódzkie,powiat łowicki
- Czerwionka-Leszczyny,18.6776,50.1501,5.35,41.63,2.69,36.84,3.34,92,1007,356, light rain,07:41:56, 16:02:53,śląskie,powiat rybnicki
- Iwonicz-Zdrój,21.7899,49.5632,4.81,40.66,4.81,40.66,0.89,97,1017,51, light rain,07:27:00, 15:52:55,podkarpackie,powiat krośnieński
- Władysławowo,18.4009,54.7909,5.54,41.97,2.18,35.92,4.65,86,1005,242, overcast clouds,08:05:48, 15:41:14,pomorskie,powiat pucki
- Rybnik,18.5418,50.0971,5.44,41.79,3.28,37.9,2.68,93,1006,338, light rain,07:42:15, 16:03:40,śląskie,powiat Rybnik
- Nowy Tomyśl,16.1284,52.3195,3.81,38.86,1.47,34.65,2.52,94,1007,237, overcast clouds,08:02:01, 16:03:12,wielkopolskie,powiat nowotomyski
- Bielawa,16.623,50.6908,5.34,41.61,4.01,39.22,1.77,90,1008,243, overcast clouds,07:52:30, 16:08:45,dolnośląskie,powiat dzierżanowski
- Złotoryja,15.9198,51.1264,6.08,42.94,3.48,38.26,3.5,85,1009,255, overcast clouds,07:57:16, 16:09:37,dolnośląskie,powiat złotoryjski
- Krotoszyn,17.4374,51.6987,3.64,38.55,1.24,34.23,2.55,93,1008,276, overcast clouds,07:53:50, 16:00:55,wielkopolskie,powiat krotoszyński
- Borucin,18.1575,50.0076,5.25,41.45,2.64,36.75,3.24,87,1008,3, light rain,07:43:24, 16:05:35,śląskie,powiat raciborski
- Kołobrzeg,15.5834,54.1757,5.64,42.15,2.86,37.15,3.63,93,1006,222, scattered clouds,08:13:41, 15:55:54,zachodniopomorskie,powiat kołobrzeski
- Wałcz,16.4712,53.2779,2.85,37.13,0.56,33.01,2.29,96,1007,234, overcast clouds,08:05:25, 15:57:04,zachodniopomorskie,powiat wałecki
- Radomsko,19.4448,51.0671,5.29,41.52,3.16,37.69,2.6,94,1008,310, overcast clouds,07:42:54, 15:55:46,łódzkie,powiat radomszczański
- Górne Gruczno,18.3136,53.367,3.74,38.73,2.74,36.93,1.34,92,1002,180, overcast clouds,07:58:30, 15:49:14,kujawsko-pomorskie,powiat świecki
- Lubań,15.2877,51.1201,4.08,39.34,1.08,33.94,3.45,85,1009,245, overcast clouds,07:59:46, 16:12:11,dolnośląskie,powiat lubański
- Piastów,20.8395,52.1843,5.97,42.75,2.72,36.9,4.63,94,1002,280, broken clouds,07:42:32, 15:44:59,mazowieckie,powiat pruszkowski
- Gorzów Wielkopolski,15.2288,52.7368,1.89,35.4,1.89,35.4,0.45,100,1005,6, overcast clouds,08:07:39, 16:04:46,lubuskie,powiat Gorzów Wielkopolski
- Przysiek,18.4997,53.0324,4.6,40.28,2.43,36.37,2.5,98,1006,257, overcast clouds,07:56:03, 15:50:11,kujawsko-pomorskie,powiat toruński
- Świecie,18.4474,53.4095,3.99,39.18,3.02,37.44,1.34,92,1002,180, overcast clouds,07:58:11, 15:48:28,kujawsko-pomorskie,powiat świecki
- Sokółka,23.5023,53.4072,3.02,37.44,-0.91,30.36,4.57,94,1008,167, overcast clouds,07:37:58, 15:28:15,podlaskie,powiat sokolski
- Szczecin,14.553,53.4289,4.26,39.67,2.26,36.07,2.24,91,1004,140, broken clouds,08:13:51, 16:03:58,zachodniopomorskie,powiat Szczecin
- Mława,20.3841,53.1128,4.2,39.56,1.76,35.17,2.73,97,1006,254, overcast clouds,07:48:55, 15:42:14,mazowieckie,powiat mławski
- Bolesławiec,15.5697,51.2642,3.76,38.77,0.2,32.36,4.23,85,1009,254, overcast clouds,07:59:17, 16:10:24,dolnośląskie,powiat bolesławiecki
- Dzierżoniów,16.6514,50.7282,5.41,41.74,4.05,39.29,1.81,90,1009,243, overcast clouds,07:52:33, 16:08:28,dolnośląskie,powiat dzierżanowski
- Szklarska Poręba,15.5227,50.8257,3.21,37.78,1.34,34.41,1.95,87,1009,260, overcast clouds,07:57:30, 16:12:34,dolnośląskie,powiat jeleniogórski
- Borówiec,17.0424,52.28,4.1,39.38,1.76,35.17,2.58,95,1007,262, overcast clouds,07:58:10, 15:59:44,wielkopolskie,powiat poznański
- Połaniec,21.2812,50.4332,8.26,46.87,8.26,46.87,0.18,89,1007,43, overcast clouds,07:32:45, 15:51:14,świętokrzyskie,powiat staszowski
- Gostynin,19.4619,52.4294,4.62,40.32,2.54,36.57,2.4,95,1007,268, overcast clouds,07:49:13, 15:49:19,mazowieckie,powiat gostyniński
- Słupsk,17.0287,54.4641,4.69,40.44,2.1,35.78,3.05,96,1005,231, overcast clouds,08:09:28, 15:48:32,pomorskie,powiat Słupsk
- Dąbrowa Górnicza,19.2374,50.3182,5.12,41.22,2.51,36.52,3.2,93,1006,350, overcast clouds,07:40:25, 15:59:55,śląskie,powiat Dąbrowa Górnicza
- Żyrardów,20.446,52.0488,5.8,42.44,3.66,38.59,2.74,99,1007,266, overcast clouds,07:43:27, 15:47:13,mazowieckie,powiat żyrardowski
- Nowy Targ,20.0323,49.4778,3.55,38.39,2.5,36.5,1.36,94,1006,14, light rain,07:33:40, 16:00:18,małopolskie,powiat nowotarski
- Siemiatycze,22.8623,52.4272,4.88,40.78,1.88,35.38,3.72,92,1008,164, overcast clouds,07:35:37, 15:35:43,podlaskie,powiat siemiatycki
- Komańcza,22.0617,49.3392,4.62,40.32,4.62,40.32,1.04,94,1007,156, light rain,07:24:59, 15:52:45,podkarpackie,powiat sanocki
- Wiktorowo,18.8585,53.4031,5.13,41.23,2.95,37.31,2.63,82,1006,256, overcast clouds,07:56:30, 15:46:52,kujawsko-pomorskie,powiat grudziądzki
- Kwidzyn,18.9311,53.7249,5.75,42.35,3.72,38.7,2.59,95,1006,248, overcast clouds,07:57:53, 15:44:54,pomorskie,powiat kwidzyński
- Szamotuły,16.5779,52.612,4.37,39.87,2.13,35.83,2.53,94,1007,244, overcast clouds,08:01:39, 15:59:59,wielkopolskie,powiat szamotulski
- Turek,18.5005,52.0155,3.67,38.61,1.05,33.89,2.82,94,1008,278, overcast clouds,07:51:04, 15:55:10,wielkopolskie,powiat turecki
- Czarna Góra,20.1305,49.3766,2.16,35.89,2.16,35.89,1.31,94,1006,28, light rain,07:32:51, 16:00:20,małopolskie,powiat tatrzański
- Sierpc,19.6691,52.8568,4.53,40.15,2.19,35.94,2.68,95,1007,266, overcast clouds,07:50:30, 15:46:23,mazowieckie,powiat sierpecki
- Grodzisk Mazowiecki,20.6337,52.1039,5.93,42.67,3.87,38.97,2.66,96,1004,267, overcast clouds,07:42:58, 15:46:12,mazowieckie,powiat grodzisk
- Toruń,18.5981,53.0137,4.51,40.12,2.25,36.05,2.58,98,1006,258, overcast clouds,07:55:34, 15:49:53,kujawsko-pomorskie,powiat Toruń
- Piotrków Trybunalski,19.7032,51.4055,5.18,41.32,3.06,37.51,2.56,10,1008,297, overcast clouds,07:43:25, 15:53:12,łódzkie,powiat Piotrków Trybunalski
- Myszków,19.3246,50.5752,5.11,41.2,2.45,36.41,3.26,95,1007,340, overcast clouds,07:41:11, 15:58:27,śląskie,powiat myszkowski
- Luboń,16.8927,52.3471,4.2,39.56,1.48,34.66,3.09,97,1004,230, mist,07:59:05, 16:00:00,wielkopolskie,powiat poznański
- Dębica,21.4114,50.0515,6.9,44.42,6.07,42.93,1.54,88,1007,164, overcast clouds,07:30:34, 15:52:22,podkarpackie,powiat dębicki
- Kruszyn,22.7624,53.2572,3.43,38.17,0.14,32.25,3.67,95,1007,158, overcast clouds,07:40:09, 15:31:59,podlaskie,powiat moniecki
- Ostrołęka,21.5757,53.0862,7.18,44.92,5.46,41.83,2.53,97,1006,225, overcast clouds,07:44:01, 15:37:36,mazowieckie,powiat Ostrołęka
- Radom,21.1471,51.4025,6.92,44.46,6.92,44.46,0.45,89,1007,294, overcast clouds,07:37:37, 15:47:26,mazowieckie,powiat Radom
- Kraków,19.9167,50.0833,6.02,42.84,6.02,42.84,1.03,91,1006,300, light rain,07:36:41, 15:58:13,małopolskie,powiat Kraków
- Swarzędz,17.085,52.4129,4.0,39.2,1.24,34.23,3.09,96,1006,230, mist,07:58:38, 15:58:55,wielkopolskie,powiat poznański
- Tychy,18.9664,50.1372,5.26,41.47,2.82,37.08,3.0,90,1007,355, light rain,07:40:43, 16:01:47,śląskie,powiat Tychy
- Kolbuszowa,21.7761,50.2441,6.64,43.95,5.93,42.67,1.41,86,1007,169, overcast clouds,07:29:57, 15:50:05,podkarpackie,powiat kolbuszowski
- Szczecinek,16.6994,53.7079,2.55,36.59,0.47,32.85,2.04,96,1006,234, overcast clouds,08:06:43, 15:53:55,zachodniopomorskie,powiat szczecinecki
- Szklarki,15.7511,51.5206,3.34,38.01,0.14,32.25,3.51,85,1008,253, overcast clouds,07:59:45, 16:08:29,dolnośląskie,powiat polkowicki
- Czarny Las,23.0668,53.6654,3.25,37.85,-0.42,31.24,4.22,95,1007,172, overcast clouds,07:41:03, 15:28:39,podlaskie,powiat augustowski
- Jaworzno,19.275,50.2053,4.77,40.59,2.13,35.83,3.14,91,1004,350, light rain,07:39:47, 16:00:15,śląskie,powiat Jaworzno
- Tuchola,17.8591,53.5879,3.79,38.82,1.35,34.43,2.63,96,1006,264, overcast clouds,08:01:28, 15:49:54,kujawsko-pomorskie,powiat tucholski
- Ząbkowice Śląskie,16.8124,50.5897,5.16,41.29,3.77,38.79,1.8,90,1008,251, overcast clouds,07:51:18, 16:08:27,dolnośląskie,powiat ząbkowicki
- Mińsk Mazowiecki,21.5725,52.1794,5.5,41.9,3.86,38.95,2.09,92,1007,242, overcast clouds,07:39:34, 15:42:05,mazowieckie,powiat miński
- Głubczyce,17.8286,50.2009,5.34,41.61,3.02,37.44,2.85,86,1008,337, overcast clouds,07:45:33, 16:06:04,opolskie,powiat głubczycki
- Mszana Dolna,20.0799,49.6743,4.84,40.71,4.84,40.71,1.22,99,1006,359, light rain,07:34:18, 15:59:18,małopolskie,powiat limanowski
- Legnica,16.1619,51.2101,3.2,37.76,-0.38,31.32,4.05,83,1008,260, overcast clouds,07:56:41, 16:08:16,dolnośląskie,powiat Legnica
- Wałbrzych,16.2843,50.7714,4.13,39.43,2.71,36.88,1.69,84,1008,233, overcast clouds,07:54:13, 16:09:45,dolnośląskie,powiat Wałbrzych
- Piechcin,18.0409,52.826,2.93,37.27,0.08,32.14,2.93,94,1007,268, overcast clouds,07:56:51, 15:53:04,kujawsko-pomorskie,powiat żniński
- Belsk Duży,20.8085,51.8256,5.58,42.04,3.47,38.25,2.64,93,1007,270, overcast clouds,07:40:57, 15:46:49,mazowieckie,powiat grójecki
- Świebodzin,15.5336,52.2475,4.27,39.69,1.28,34.3,3.49,90,1007,249, overcast clouds,08:04:03, 16:05:56,lubuskie,powiat świebodziński
- Namysłów,17.7228,51.0759,5.56,42.01,3.6,38.48,2.46,89,1008,297, overcast clouds,07:49:50, 16:02:38,opolskie,powiat namysłowski
- Drezdenko,15.8308,52.8383,6.05,42.89,4.41,39.94,2.19,95,1007,235, overcast clouds,08:05:45, 16:01:51,lubuskie,powiat strzelecko-drezdenecki
- Białka,19.6703,49.6931,3.34,38.01,1.65,34.97,1.81,98,1007,343, light rain,07:36:01, 16:00:51,małopolskie,powiat suski
- Olkusz,19.565,50.2813,4.64,40.35,1.57,34.83,3.75,96,1007,347, overcast clouds,07:38:57, 15:58:46,małopolskie,powiat olkuski
- Lądek-Zdrój,16.8795,50.3437,3.54,38.37,2.32,36.18,1.47,90,1009,273, overcast clouds,07:49:57, 16:09:15,dolnośląskie,powiat kłodzki
- Spalona,16.5319,50.2837,1.33,34.39,-0.02,31.96,1.36,100,1006,274, overcast clouds,07:51:05, 16:10:54,dolnośląskie,powiat kłodzki
- Sobczyce,16.0728,51.704,2.15,35.87,-0.97,30.25,3.06,88,1008,246, overcast clouds,07:59:19, 16:06:21,dolnośląskie,powiat głogowski
- Ostrów Mazowiecka,21.8951,52.8024,7.01,44.62,5.51,41.92,2.22,97,1007,196, overcast clouds,07:41:19, 15:37:45,mazowieckie,powiat ostrowski
- Grodziec Mały,16.0759,51.6878,2.16,35.89,-0.95,30.29,3.06,88,1008,247, overcast clouds,07:59:13, 16:06:25,dolnośląskie,powiat głogowski
- Wyszków,21.4584,52.5928,7.08,44.74,5.48,41.86,2.35,96,1007,235, overcast clouds,07:42:02, 15:40:32,mazowieckie,powiat wyszkowski
- Lubin,16.2015,51.4009,2.62,36.72,-0.72,30.7,3.49,85,1008,258, overcast clouds,07:57:23, 16:07:14,dolnośląskie,powiat lubiński
- Koniczynka,18.6872,53.0781,4.27,39.69,1.82,35.28,2.75,98,1006,259, overcast clouds,07:55:32, 15:49:12,kujawsko-pomorskie,powiat toruński
- Radomierzyce,14.9742,51.0598,4.41,39.94,1.75,35.15,3.06,83,1009,238, overcast clouds,08:00:45, 16:13:42,dolnośląskie,powiat zgorzelecki
- Konin,18.2512,52.2234,3.75,38.75,1.08,33.94,2.9,94,1007,275, overcast clouds,07:53:04, 15:55:10,wielkopolskie,powiat Konin
- Gostyń,17.0123,51.8825,3.92,39.06,1.4,34.52,2.76,93,1008,259, overcast clouds,07:56:23, 16:01:45,wielkopolskie,powiat gostyński
- Bydgoszcz,18.0076,53.1235,3.96,39.13,1.61,34.9,2.57,99,1006,240, fog,07:58:29, 15:51:42,kujawsko-pomorskie,powiat Bydgoszcz
- Chęciny,20.4623,50.8002,4.82,40.68,2.83,37.09,2.34,42,1007,334, overcast clouds,07:37:38, 15:52:54,świętokrzyskie,powiat kielecki
- Słone,15.3984,51.9239,4.03,39.25,0.8,33.44,3.78,44,1009,251, overcast clouds,08:03:02, 16:08:01,lubuskie,powiat zielonogórski
- Nałęczów,22.2154,51.2858,5.36,41.65,3.53,38.35,2.27,91,1007,198, overcast clouds,07:32:49, 15:43:41,lubelskie,powiat puławski
- Świnoujście,14.2471,53.9105,3.08,37.54,1.07,33.93,2.06,93,1004,160, scattered clouds,08:17:36, 16:02:40,zachodniopomorskie,powiat Świnoujście
- Gać,22.359,50.0269,5.97,42.75,5.97,42.75,0.99,85,1007,71, overcast clouds,07:26:41, 15:48:41,podkarpackie,powiat przeworski
- Malbork,19.0266,54.0359,3.86,38.95,1.25,34.25,2.85,93,1006,238, overcast clouds,07:59:10, 15:42:52,pomorskie,powiat malborski
- Tuchów,21.0541,49.8949,5.36,41.65,5.36,41.65,0.9,88,1007,139, light rain,07:31:20, 15:54:28,małopolskie,powiat tarnowski
- Tarnobrzeg,21.6794,50.573,6.75,44.15,6.75,44.15,0.77,80,1007,168, overcast clouds,07:31:46, 15:49:02,podkarpackie,powiat Tarnobrzeg
- Wejherowo,18.2356,54.6057,5.19,41.34,4.38,39.88,1.34,98,1007,231, overcast clouds,08:05:26, 15:42:55,pomorskie,powiat wejherowski
- Jarocin,17.5026,51.9727,3.83,38.89,1.5,34.7,2.52,93,1008,268, overcast clouds,07:54:51, 15:59:22,wielkopolskie,powiat jarociński
- Rabka-Zdrój,19.9665,49.6089,3.54,38.37,2.44,36.39,1.39,98,1006,0, light rain,07:34:29, 16:00:01,małopolskie,powiat nowotarski
- Kawice,16.4252,51.2313,5.02,41.04,2.16,35.89,3.55,82,1008,265, overcast clouds,07:55:43, 16:07:07,dolnośląskie,powiat legnicki
- Biała,17.6604,50.3859,4.22,39.6,2.1,35.78,2.36,86,1008,321, overcast clouds,07:47:01, 16:05:56,opolskie,powiat prudnicki
- Brzeziny,19.7514,51.8002,4.49,40.08,2.02,35.64,2.83,98,1008,280, overcast clouds,07:45:03, 15:51:10,łódzkie,powiat brzeziński
- Rawa Mazowiecka,20.2549,51.7644,5.05,41.09,2.83,37.09,2.66,95,1007,279, overcast clouds,07:42:52, 15:49:19,łódzkie,powiat rawski
- Oborniki,16.8141,52.6474,4.52,40.14,2.31,36.16,2.52,94,1007,248, overcast clouds,08:00:52, 15:58:51,wielkopolskie,powiat obornicki
- Duszniki-Zdrój,16.3909,50.4033,2.94,37.29,2.94,37.29,1.27,100,1009,256, overcast clouds,07:52:10, 16:10:57,dolnośląskie,powiat kłodzki
- Oława,17.2926,50.9466,5.3,41.54,3.16,37.69,2.62,86,1008,290, overcast clouds,07:50:58, 16:04:56,dolnośląskie,powiat oławski
- Sandomierz,21.749,50.6827,5.63,42.13,5.63,42.13,1.03,88,1006,172, overcast clouds,07:31:58, 15:48:16,świętokrzyskie,powiat sandomierski
- Busko-Zdrój,20.7188,50.4708,4.41,39.94,2.26,36.07,2.43,93,1007,358, overcast clouds,07:35:09, 15:53:19,świętokrzyskie,powiat buski
- Wołomin,21.2421,52.3401,5.99,42.78,4.57,40.23,1.95,92,1007,247, overcast clouds,07:41:40, 15:42:38,mazowieckie,powiat wołomiński
- Witków,15.5159,51.6275,3.48,38.26,0.04,32.07,3.92,87,1008,254, overcast clouds,08:01:11, 16:08:56,lubuskie,powiat żagański
- Zawiercie,19.4168,50.4877,5.04,41.07,5.04,41.07,0.89,95,1005,321, overcast clouds,07:40:26, 15:58:28,śląskie,powiat zawierciański
- Poznań,16.9299,52.4069,4.25,39.65,1.54,34.77,3.09,98,1005,230, mist,07:59:14, 15:59:34,wielkopolskie,powiat Poznań
- Krzyżówka,20.4787,52.0052,5.68,42.22,3.44,38.19,2.84,99,1007,267, overcast clouds,07:43:07, 15:47:17,mazowieckie,powiat żyrardowski
- Przeworsk,22.4941,50.0591,4.33,39.79,3.21,37.78,1.48,84,1007,87, overcast clouds,07:26:17, 15:48:00,podkarpackie,powiat przeworski
- Płońsk,20.3755,52.6235,5.4,41.72,3.28,37.9,2.62,94,1007,257, overcast clouds,07:46:31, 15:44:43,mazowieckie,powiat płoński
- Sulęcin,15.1168,52.4443,3.8,38.84,1.21,34.18,2.81,93,1007,240, overcast clouds,08:06:40, 16:06:39,lubuskie,powiat sulęciński
- Oświęcim,19.2104,50.0344,5.11,41.2,2.62,36.72,3.03,91,1007,348, light rain,07:39:18, 16:01:15,małopolskie,powiat oświęcimski
- Dąbrowa Tarnowska,20.9863,50.1746,7.61,45.7,7.61,45.7,0.58,88,1007,29, light rain,07:32:48, 15:53:32,małopolskie,powiat dąbrowski
- Warszawa,21.0118,52.2298,5.87,42.57,2.6,36.68,4.63,93,1003,280, broken clouds,07:42:03, 15:44:05,mazowieckie,powiat Warszawa
- Łuków,22.3796,51.929,6.07,42.93,4.28,39.7,2.36,93,1007,183, overcast clouds,07:35:09, 15:40:02,lubelskie,powiat łukowski
- Polanica-Zdrój,16.5127,50.4037,4.06,39.31,3.06,37.51,1.37,100,1009,258, overcast clouds,07:51:41, 16:10:27,dolnośląskie,powiat kłodzki
- Głogówko,16.0958,51.732,2.12,35.82,-0.99,30.22,3.04,89,1008,245, overcast clouds,07:59:21, 16:06:08,dolnośląskie,powiat głogowski
- Mielec,21.4239,50.2871,8.18,46.72,8.18,46.72,0.79,89,1007,161, overcast clouds,07:31:32, 15:51:18,podkarpackie,powiat mielecki
- Lesko,22.3304,49.4701,4.66,40.39,4.66,40.39,0.45,100,1007,156, light rain,07:24:27, 15:51:08,podkarpackie,powiat leski
- Osieczów,15.4311,51.2997,3.81,38.86,0.43,32.77,3.95,85,1009,253, overcast clouds,08:00:00, 16:10:47,dolnośląskie,powiat bolesławiecki
- Chełmno,18.4251,53.3485,3.69,38.64,2.68,36.82,1.34,92,1002,180, overcast clouds,07:57:57, 15:48:53,kujawsko-pomorskie,powiat chełmiński
- Stargard Szczeciński,15.0116,53.309,3.58,38.44,0.73,33.31,3.09,91,1009,209, broken clouds,08:11:24, 16:02:45,zachodniopomorskie,powiat stargardzki
- Tarnowo Podgórne,16.6633,52.4664,4.14,39.45,1.41,34.54,3.09,98,1006,230, mist,08:00:35, 16:00:21,wielkopolskie,powiat poznański
- Jeleniów,15.4628,51.849,4.32,39.78,1.1,33.98,3.88,44,1008,252, overcast clouds,08:02:26, 16:08:07,lubuskie,powiat Zielona Góra
- Lublin,23.0,51.0,4.77,40.59,2.19,35.94,3.05,87,1008,152, overcast clouds,07:28:23, 15:41:51,lubelskie,powiat krasnostawski
- Wolice,17.9151,52.8566,2.94,37.29,0.12,32.22,2.89,94,1007,266, overcast clouds,07:57:30, 15:53:25,kujawsko-pomorskie,powiat żniński
- Limanowa,20.422,49.7059,4.54,40.17,4.54,40.17,0.88,97,1007,356, light rain,07:33:04, 15:57:48,małopolskie,powiat limanowski
- Piła,16.7378,53.1515,3.13,37.63,1.09,33.96,2.09,96,1007,245, overcast clouds,08:03:42, 15:56:38,wielkopolskie,powiat pilski
- Kowary,15.8356,50.7931,4.41,39.94,3.25,37.85,1.52,91,1009,257, overcast clouds,07:56:06, 16:11:27,dolnośląskie,powiat jeleniogórski
- Marwice,14.4169,53.1708,4.39,39.9,1.36,34.45,3.6,88,1006,215, overcast clouds,08:13:05, 16:05:50,zachodniopomorskie,powiat gryfiński
- Łasin,19.0883,53.5179,5.57,42.03,5.57,42.03,0.89,82,1009,75, overcast clouds,07:56:11, 15:45:21,kujawsko-pomorskie,powiat grudziądzki
- Trzcianka,16.4563,53.0406,2.97,37.35,0.63,33.13,2.36,95,1007,244, overcast clouds,08:04:16, 15:58:20,wielkopolskie,powiat czarnkowsko-trzcianecki
- Latoszyn,21.3753,50.0269,7.63,45.73,6.85,44.33,1.58,88,1007,161, overcast clouds,07:30:37, 15:52:37,podkarpackie,powiat dębicki
- Muszyna,20.8972,49.3566,5.06,41.11,5.06,41.11,0.89,79,1017,108, light rain,07:29:42, 15:57:21,małopolskie,powiat nowosądecki
- Ustka,16.8619,54.5805,4.8,40.64,1.46,34.63,4.27,95,1005,236, overcast clouds,08:10:47, 15:48:34,pomorskie,powiat słupski
- Jastrzębie-Zdrój,18.5748,49.9554,5.33,41.59,2.56,36.61,3.51,93,1007,6, light rain,07:41:30, 16:04:08,śląskie,powiat Jastrzębie-Zdrój
- Leśna,15.2641,51.0243,4.54,40.17,1.73,35.11,3.31,80,1009,240, overcast clouds,07:59:26, 16:12:42,dolnośląskie,powiat lubański
- Izbica Kujawska,18.7627,52.4207,3.75,38.75,1.11,34.0,2.87,94,1007,272, overcast clouds,07:51:58, 15:52:10,kujawsko-pomorskie,powiat włocławski
- Odolanów,17.6743,51.5742,5.81,42.46,4.05,39.29,2.28,93,1008,281, overcast clouds,07:52:18, 16:00:33,wielkopolskie,powiat ostrowski
- Kozienice,21.5478,51.5829,6.15,43.07,4.91,40.84,1.8,48,1007,272, overcast clouds,07:36:51, 15:45:00,mazowieckie,powiat kozienicki
- Hajnówka,23.5812,52.7433,2.13,35.83,-1.96,28.47,4.48,94,1008,153, overcast clouds,07:34:17, 15:31:17,podlaskie,powiat hajnowski
- Augustów,22.9798,53.8432,3.14,37.65,-0.25,31.55,3.73,96,1007,176, overcast clouds,07:42:20, 15:28:04,podlaskie,powiat augustowski
- Rzeszów,21.999,50.0413,6.09,42.96,5.14,41.25,1.54,85,1000,250, overcast clouds,07:28:11, 15:50:03,podkarpackie,powiat Rzeszów
- Goczałkowice-Zdrój,18.9661,49.9437,4.98,40.96,2.46,36.43,3.03,100,1007,356, light rain,07:39:53, 16:02:37,śląskie,powiat pszczyński
- Brzeszcze,19.1516,49.982,4.79,40.62,2.27,36.09,2.98,90,1007,350, light rain,07:39:19, 16:01:43,małopolskie,powiat oświęcimski
- Gołdap,22.3036,54.3063,2.43,36.37,-0.88,30.42,3.39,99,1006,177, overcast clouds,07:47:31, 15:28:17,warmińsko-mazurskie,powiat gołdapski
- Grab,17.7216,52.0216,4.09,39.36,1.72,35.1,2.62,93,1008,270, overcast clouds,07:54:13, 15:58:15,wielkopolskie,powiat pleszewski
- Jelenia Góra,15.729,50.8997,5.5,41.9,3.86,38.95,2.09,88,1009,254, overcast clouds,07:57:00, 16:11:24,dolnośląskie,powiat Jelenia Góra
- Liniewko Kościerskie,18.1813,54.1027,3.72,38.7,0.8,33.44,3.23,98,1006,256, overcast clouds,08:02:54, 15:45:53,pomorskie,powiat kościerski
- Biłgoraj,22.722,50.5411,4.25,39.65,2.63,36.73,1.88,87,1008,129, overcast clouds,07:27:27, 15:45:00,lubelskie,powiat biłgorajski
- Szczebrzeszyn,22.9795,50.695,5.67,42.21,3.8,38.84,2.37,87,1008,136, overcast clouds,07:27:06, 15:43:17,lubelskie,powiat zamojski
- Myślibórz,14.8679,52.9238,3.6,38.48,0.65,33.17,3.23,91,1007,218, overcast clouds,08:10:02, 16:05:17,zachodniopomorskie,powiat myśliborski
- Głogów,16.0845,51.6636,2.02,35.64,-1.12,29.98,3.06,88,1008,247, overcast clouds,07:59:04, 16:06:30,dolnośląskie,powiat głogowski
- Nakło nad Notecią,17.6018,53.1421,3.62,38.52,0.95,33.71,2.87,94,1007,260, overcast clouds,08:00:12, 15:53:14,kujawsko-pomorskie,powiat nakielski
- Wodzisław Śląski,18.4721,50.0038,5.19,41.34,2.42,36.36,3.46,93,1007,6, light rain,07:42:07, 16:04:20,śląskie,powiat wodzisławski
- Lipnik,20.0846,49.789,4.69,40.44,4.69,40.44,1.28,98,1007,354, light rain,07:34:46, 15:58:48,małopolskie,powiat myślenicki
- Słubice,14.5607,52.3509,4.09,39.36,1.0,33.8,3.58,82,1006,235, overcast clouds,08:08:26, 16:09:20,lubuskie,powiat słubicki
- Słomniki,20.0822,50.2401,5.72,42.3,2.9,37.22,3.72,93,1007,353, overcast clouds,07:36:42, 15:56:53,małopolskie,powiat krakowski
- Wieluń,18.5696,51.221,4.53,40.15,2.51,36.52,2.31,92,1008,296, overcast clouds,07:47:06, 15:58:35,łódzkie,powiat wieluński
- Złoczew,18.6036,51.4172,3.27,37.89,0.93,33.67,2.41,94,1008,291, overcast clouds,07:47:52, 15:57:33,łódzkie,powiat sieradzki
- Kruszwica,18.3313,52.6756,2.86,37.15,-0.2,31.64,3.17,93,1007,273, overcast clouds,07:54:57, 15:52:39,kujawsko-pomorskie,powiat inowrocławski
- Stare Koźle,18.2201,50.3122,5.6,42.08,3.18,37.72,3.07,85,1008,344, light rain,07:44:27, 16:04:01,opolskie,powiat kędzierzyńsko-kozielki
- Nowiny,15.7477,52.6198,6.05,42.89,4.24,39.63,2.39,94,1007,238, overcast clouds,08:05:00, 16:03:16,lubuskie,powiat międzyrzecki
- Grudziądz,18.7537,53.4841,6.02,42.84,4.2,39.56,2.39,82,1006,255, overcast clouds,07:57:21, 15:46:52,kujawsko-pomorskie,powiat Grudziądz
- Żory,18.7006,50.0452,5.18,41.32,2.39,36.3,3.49,93,1007,1, light rain,07:41:23, 16:03:15,śląskie,powiat Żory
- Strzelin,17.0648,50.7816,5.26,41.47,3.75,38.75,1.92,86,1008,269, overcast clouds,07:51:08, 16:06:35,dolnośląskie,powiat strzeliński
- Karpacz,15.7559,50.7767,3.54,38.37,2.19,35.94,1.57,87,1009,264, overcast clouds,07:56:21, 16:11:51,dolnośląskie,powiat jeleniogórski
- Kozie Doły,16.0178,51.7256,2.16,35.89,-0.98,30.24,3.09,89,1008,246, overcast clouds,07:59:38, 16:06:28,dolnośląskie,powiat głogowski
- Pabianice,19.3547,51.6645,4.19,39.54,2.36,36.25,2.06,96,1008,260, scattered clouds,07:46:00, 15:53:24,łódzkie,powiat pabianicki
- Skarżysko-Kamienna,20.8716,51.1131,5.36,41.65,4.02,39.24,1.78,92,1007,309, overcast clouds,07:37:24, 15:49:51,świętokrzyskie,powiat skarżyski
- Kościerzyna,17.9812,54.1223,3.99,39.18,1.25,34.25,3.05,95,1006,255, overcast clouds,08:03:48, 15:46:35,pomorskie,powiat kościerski
- Mosina,16.8471,52.2454,4.15,39.47,1.42,34.56,3.09,97,1006,230, mist,07:58:47, 16:00:41,wielkopolskie,powiat poznański
- Kłobuck,18.9367,50.9008,2.25,36.05,-0.58,30.96,2.74,87,1008,321, overcast clouds,07:44:11, 15:58:33,śląskie,powiat kłobucki
- Aleksandrów Kujawski,18.6935,52.8766,4.39,39.9,1.9,35.42,2.83,98,1007,267, overcast clouds,07:54:30, 15:50:12,kujawsko-pomorskie,powiat aleksandrowski
- Ożarów,21.6666,50.888,5.36,41.65,5.36,41.65,0.44,90,1007,203, overcast clouds,07:33:13, 15:47:41,świętokrzyskie,powiat opatowski
- Godów,18.4783,49.9248,5.37,41.67,2.61,36.7,3.51,92,1007,9, light rain,07:41:46, 16:04:39,śląskie,powiat wodzisławski
- Sosnowiec,19.1038,50.2868,5.27,41.49,3.91,39.04,1.79,92,1006,333, overcast clouds,07:40:49, 16:00:35,śląskie,powiat Sosnowiec
- Gdynia,18.5319,54.5189,5.11,41.2,1.93,35.47,4.12,95,1004,270, broken clouds,08:03:46, 15:42:13,pomorskie,powiat Gdynia
- Inowrocław,18.2639,52.7989,3.2,37.76,0.33,32.59,3.02,94,1007,271, overcast clouds,07:55:50, 15:52:18,kujawsko-pomorskie,powiat inowrocławski
- Sępólno Krajeńskie,17.5317,53.452,3.75,38.75,1.04,33.87,2.95,95,1007,262, overcast clouds,08:02:04, 15:51:55,kujawsko-pomorskie,powiat sępoleński
- Nowe Skalmierzyce,17.9934,51.7104,3.8,38.84,1.46,34.63,2.52,93,1008,282, overcast clouds,07:51:40, 15:58:38,wielkopolskie,powiat ostrowski
- Koło,18.6387,52.2002,3.92,39.06,1.3,34.34,2.88,94,1007,276, overcast clouds,07:51:24, 15:53:44,wielkopolskie,powiat kolski
- Bielsko-Biała,19.0469,49.8224,4.31,39.76,1.83,35.29,2.8,100,1017,353, light rain,07:39:03, 16:02:48,śląskie,powiat Bielsko-Biała
- Ciechanów,20.62,52.8814,5.79,42.42,3.72,38.7,2.64,95,1006,251, overcast clouds,07:46:49, 15:42:27,mazowieckie,powiat ciechanowski
- Ciechocinek,18.7951,52.8791,4.55,40.19,2.09,35.76,2.84,98,1007,267, overcast clouds,07:54:06, 15:49:46,kujawsko-pomorskie,powiat aleksandrowski
- Gorlice,21.1604,49.6556,5.31,41.56,5.31,41.56,1.26,94,1007,150, light rain,07:29:54, 15:55:03,małopolskie,powiat gorlicki
- Tarnowskie Góry,18.8615,50.4455,4.98,40.96,3.28,37.9,2.06,93,1006,300, mist,07:42:28, 16:00:52,śląskie,powiat tarnogórski
- Myślenice,19.9383,49.8338,5.47,41.85,4.48,40.06,1.5,97,1007,346, light rain,07:35:32, 15:59:11,małopolskie,powiat myślenicki
- Nowa Ruda,16.5016,50.5801,4.65,40.37,3.46,38.23,1.57,90,1008,243, overcast clouds,07:52:30, 16:09:44,dolnośląskie,powiat kłodzki
- Puławy,21.9694,51.4166,5.66,42.19,4.54,40.17,1.63,90,1005,216, overcast clouds,07:34:24, 15:44:04,lubelskie,powiat puławski
- Rypin,19.4094,53.066,4.46,40.03,2.02,35.64,2.79,95,1006,267, overcast clouds,07:52:35, 15:46:23,kujawsko-pomorskie,powiat rypiński
- Ostrów Wielkopolski,17.8069,51.655,3.99,39.18,1.76,35.17,2.44,93,1008,282, overcast clouds,07:52:09, 15:59:38,wielkopolskie,powiat ostrowski
- Maszewo Duże,19.629,52.5803,4.64,40.35,2.57,36.63,2.39,95,1007,263, overcast clouds,07:49:17, 15:47:55,mazowieckie,powiat płocki
- Święty Krzyż,20.75,50.75,5.19,41.34,3.96,39.13,1.66,37,1007,350, overcast clouds,07:36:16, 15:51:58,świętokrzyskie,powiat kielecki
- Elbląg,19.4088,54.1522,3.86,38.95,1.52,34.74,2.53,95,1006,231, overcast clouds,07:58:15, 15:40:42,warmińsko-mazurskie,powiat Elbląg
- Jawor,16.1935,51.0513,5.56,42.01,3.28,37.9,2.86,84,1009,255, overcast clouds,07:55:50, 16:08:52,dolnośląskie,powiat jaworski
- Chrzanów,19.402,50.1355,4.96,40.93,2.26,36.07,3.28,91,1007,346, light rain,07:38:58, 16:00:03,małopolskie,powiat chrzanowski
- Lubliniec,18.6844,50.669,4.82,40.68,2.43,36.37,2.81,89,1008,332, overcast clouds,07:44:10, 16:00:36,śląskie,powiat lubliniecki
- Zgierz,19.4062,51.8556,4.42,39.96,2.63,36.73,2.06,97,1006,260, scattered clouds,07:46:42, 15:52:18,łódzkie,powiat zgierski
- Sadłogoszcz,18.0082,52.8568,3.2,37.76,0.42,32.76,2.9,94,1007,268, overcast clouds,07:57:08, 15:53:02,kujawsko-pomorskie,powiat żniński
- Chorzów,18.9742,50.3058,4.98,40.96,3.57,38.43,1.79,92,1005,333, overcast clouds,07:41:25, 16:01:02,śląskie,powiat Chorzów
- Pionki,21.4499,51.476,6.14,43.05,4.84,40.71,1.86,93,1007,282, overcast clouds,07:36:45, 15:45:53,mazowieckie,powiat radomski
- Krosno,21.7706,49.6887,5.49,41.88,4.41,39.94,1.58,98,1007,187, overcast clouds,07:27:36, 15:52:28,podkarpackie,powiat Krosno
- Małogoszcz,20.2641,50.8121,3.68,38.62,1.05,33.89,2.84,95,1007,329, overcast clouds,07:38:29, 15:53:38,świętokrzyskie,powiat jędrzejewski
- Nisko,22.1397,50.5199,4.99,40.98,4.16,39.49,1.34,84,1005,138, overcast clouds,07:29:41, 15:47:25,podkarpackie,powiat niżański
- Sieradz,18.7302,51.5958,3.68,38.62,1.35,34.43,2.48,96,1008,286, overcast clouds,07:48:11, 15:56:13,łódzkie,powiat sieradzki
- Zabrze,18.7858,50.3249,5.36,41.65,4.57,40.23,1.34,91,1005,341, light rain,07:42:15, 16:01:42,śląskie,powiat Zabrze
- Kościan,16.6487,52.0883,2.95,37.31,0.2,32.36,2.81,93,1008,246, overcast clouds,07:58:49, 16:02:14,wielkopolskie,powiat kościański
- Milicz,17.2714,51.5277,3.99,39.18,1.97,35.55,2.22,93,1008,268, overcast clouds,07:53:42, 16:02:22,dolnośląskie,powiat milicki
- Krzeszowice,19.6322,50.1425,5.71,42.28,5.71,42.28,1.03,93,1006,300, light rain,07:38:05, 15:59:06,małopolskie,powiat krakowski
- Złockie,20.8879,49.3745,3.72,38.7,3.72,38.7,0.86,97,1007,108, light rain,07:29:49, 15:57:19,małopolskie,powiat nowosądecki
- Mrągowo,21.3051,53.8644,5.0,41.0,3.13,37.63,2.24,99,1006,209, overcast clouds,07:49:08, 15:34:39,warmińsko-mazurskie,powiat mrągowski
- Gliwice,18.6766,50.2976,5.56,42.01,4.24,39.63,1.79,90,1006,325, light rain,07:42:34, 16:02:15,śląskie,powiat Gliwice
- Dobczyce,20.0894,49.8811,5.76,42.37,4.93,40.87,1.41,90,1007,355, light rain,07:35:08, 15:58:23,małopolskie,powiat myślenicki
- Wrocław,17.0333,51.1,5.19,41.34,3.07,37.53,2.57,85,1010,230, broken clouds,07:52:42, 16:05:17,dolnośląskie,powiat Wrocław
- Biała Podlaska,23.1165,52.0324,5.24,41.43,2.26,36.07,3.81,89,1008,159, overcast clouds,07:32:42, 15:36:36,lubelskie,powiat Biała Podlaska
- Leszno,16.5749,51.8403,2.03,35.65,-0.96,30.27,2.88,91,1008,244, overcast clouds,07:57:56, 16:03:42,wielkopolskie,powiat Leszno
- Tczew,18.7779,54.0924,4.02,39.24,1.25,34.25,3.11,93,1006,247, overcast clouds,08:00:27, 15:43:33,pomorskie,powiat tczewski
- Łask,19.1328,51.5906,3.99,39.18,1.77,35.19,2.43,96,1007,285, overcast clouds,07:46:33, 15:54:38,łódzkie,powiat łaski
- Zakopane,19.9489,49.299,2.24,36.03,2.24,36.03,0.89,94,1003,90, light rain,07:33:16, 16:01:23,małopolskie,powiat tatrzański
- Zduńska Wola,18.9397,51.5992,3.58,38.44,1.27,34.29,2.44,96,1007,285, overcast clouds,07:47:21, 15:55:22,łódzkie,powiat zduńskowolski
- Płock,19.7064,52.5468,4.72,40.5,2.69,36.84,2.36,95,1007,261, overcast clouds,07:48:49, 15:47:46,mazowieckie,powiat Płock
- Łomża,22.0593,53.1781,4.31,39.76,2.11,35.8,2.47,98,1007,180, overcast clouds,07:42:33, 15:35:12,podlaskie,powiat Łomża
- Złoty Potok,19.438,50.7057,5.32,41.58,2.88,37.18,3.01,91,1008,328, overcast clouds,07:41:19, 15:57:25,śląskie,powiat częstochowski
- Krynica-Zdrój,20.9594,49.4222,3.21,37.78,3.21,37.78,0.97,98,1007,123, light rain,07:29:44, 15:56:50,małopolskie,powiat nowosądecki
- Szymbark,18.1026,54.2189,3.06,37.51,-0.21,31.62,3.52,98,1006,250, overcast clouds,08:03:50, 15:45:35,pomorskie,powiat kartuski
- Kalisz,18.091,51.7611,3.93,39.07,1.6,34.88,2.54,93,1008,282, overcast clouds,07:51:30, 15:58:00,wielkopolskie,powiat Kalisz
- Olesno,18.4209,50.877,2.27,36.09,-0.29,31.48,2.45,90,1008,316, overcast clouds,07:46:09, 16:00:44,opolskie,powiat oleski
- Opatówek,18.2165,51.7399,3.66,38.59,1.31,34.36,2.5,94,1008,282, overcast clouds,07:50:54, 15:57:36,wielkopolskie,powiat kaliski
- Trzebinia,19.4697,50.1593,4.85,40.73,2.05,35.69,3.39,91,1007,345, light rain,07:38:48, 15:59:41,małopolskie,powiat chrzanowski
- Olsztyn,20.4942,53.7799,4.98,40.96,3.13,37.63,2.22,98,1006,233, overcast clouds,07:51:56, 15:38:21,warmińsko-mazurskie,powiat Olsztyn
- Nowy Sącz,20.6971,49.6218,4.9,40.82,4.9,40.82,0.42,94,1006,38, light rain,07:31:37, 15:57:03,małopolskie,powiat Nowy Sącz
- Polkowice,16.0726,51.5039,4.73,40.51,2.09,35.76,3.13,86,1008,252, overcast clouds,07:58:23, 16:07:17,dolnośląskie,powiat polkowicki
- Wieniec-Zdrój,18.9897,52.6563,4.39,39.9,1.95,35.51,2.77,95,1007,273, overcast clouds,07:52:13, 15:50:06,kujawsko-pomorskie,powiat włocławski
- Otwock,21.2613,52.1058,5.96,42.73,4.76,40.57,1.74,92,1007,260, overcast clouds,07:40:28, 15:43:41,mazowieckie,powiat otwocki
- Aleksandrów Łódzki,19.3038,51.8196,4.25,39.65,2.43,36.37,2.06,97,1007,260, scattered clouds,07:46:56, 15:52:52,łódzkie,powiat zgierski
- Rawicz,16.8585,51.6095,3.85,38.93,1.31,34.36,2.77,99,1010,257, overcast clouds,07:55:44, 16:03:39,wielkopolskie,powiat rawicki
- Radziejów,18.5277,52.6248,2.68,36.82,-0.4,31.28,3.15,94,1007,274, overcast clouds,07:53:55, 15:52:06,kujawsko-pomorskie,powiat radziejowski
- Brzeg,17.4674,50.8608,4.97,40.95,2.86,37.15,2.5,86,1008,300, overcast clouds,07:49:53, 16:04:37,opolskie,powiat brzeski
- Bełchatów,19.3567,51.3688,4.04,39.27,1.8,35.24,2.46,95,1008,296, overcast clouds,07:44:38, 15:54:45,łódzkie,powiat bełchatowski
- Szarów,20.2696,49.995,5.84,42.51,5.84,42.51,0.45,91,984,3, light rain,07:34:54, 15:57:11,małopolskie,powiat wielicki
- Łódź,19.5,51.5,4.06,39.31,1.62,34.92,2.69,94,1008,290, overcast clouds,07:44:39, 15:53:35,łódzkie,powiat piotrkowski
- Rymanów-Zdrój,21.8513,49.5498,5.17,41.31,5.17,41.31,0.89,97,1017,51, light rain,07:26:42, 15:52:44,podkarpackie,powiat krośnieński
- Ustroń,18.802,49.7215,3.87,38.97,1.01,33.82,3.18,95,1007,359, light rain,07:39:36, 16:04:13,śląskie,powiat cieszyński
- Gdańsk,18.6464,54.3521,4.69,40.44,1.41,34.54,4.12,96,1005,270, broken clouds,08:02:23, 15:42:41,pomorskie,powiat Gdańsk
- Wleń,15.6747,51.0164,6.01,42.82,3.83,38.89,2.85,84,1009,249, overcast clouds,07:57:45, 16:11:06,dolnośląskie,powiat lwówecki
- Żnin,17.7199,52.8496,2.98,37.36,0.19,32.34,2.86,94,1007,263, overcast clouds,07:58:15, 15:54:14,kujawsko-pomorskie,powiat żniński
- Białe Błota,17.9162,53.0952,3.7,38.66,1.3,34.34,2.57,99,1006,240, fog,07:58:42, 15:52:12,kujawsko-pomorskie,powiat bydgoski
- Starachowice,21.0713,51.0374,5.59,42.06,4.61,40.3,1.51,93,1007,325, overcast clouds,07:36:16, 15:49:24,świętokrzyskie,powiat starachowicki
- Strzelce Opolskie,18.3006,50.5107,5.13,41.23,2.63,36.73,3.05,86,1008,337, overcast clouds,07:45:00, 16:02:50,opolskie,powiat strzelecki
- Zdzieszowice,18.1235,50.4248,4.93,40.87,2.55,36.59,2.83,85,1008,338, overcast clouds,07:45:20, 16:03:55,opolskie,powiat krapkowicki
- Hrubieszów,23.8925,50.805,4.78,40.6,1.43,34.57,4.29,85,1009,145, overcast clouds,07:23:57, 15:39:09,lubelskie,powiat hrubieszowski
- Skierniewice,20.1584,51.9548,5.85,42.53,3.7,38.66,2.76,95,1007,270, overcast clouds,07:44:09, 15:48:49,łódzkie,powiat Skierniewice
- Piekary Śląskie,18.9265,50.3802,5.09,41.16,3.41,38.14,2.06,93,1005,300, mist,07:41:56, 16:00:54,śląskie,powiat Piekary Śląskie
- Wągrowiec,17.1996,52.8084,3.55,38.39,1.13,34.03,2.56,95,1007,250, overcast clouds,08:00:08, 15:56:31,wielkopolskie,powiat wągrowiecki
- Bytom,18.9328,50.348,5.19,41.34,3.53,38.35,2.06,93,1005,300, mist,07:41:46, 16:01:01,śląskie,powiat Bytom
- Wilczopole,22.628,51.1693,4.94,40.89,4.94,40.89,1.03,93,1007,130, overcast clouds,07:30:38, 15:42:34,lubelskie,powiat lubelski
- Uniejów,18.7931,51.9743,3.95,39.11,1.43,34.57,2.77,94,1008,278, overcast clouds,07:49:42, 15:54:11,łódzkie,powiat poddębicki
- Kromolin,15.8847,51.6852,4.09,39.36,1.13,34.03,3.39,88,1008,249, overcast clouds,07:59:58, 16:07:11,dolnośląskie,powiat głogowski
- Zabierzów,19.7979,50.1143,5.77,42.39,5.77,42.39,1.03,93,1006,300, light rain,07:37:18, 15:58:33,małopolskie,powiat krakowski
- Radzyń Chełmiński,18.9373,53.3851,5.31,41.56,5.31,41.56,0.89,82,1009,75, overcast clouds,07:56:06, 15:46:38,kujawsko-pomorskie,powiat grudziądzki
- Nowa Wies Wielka,18.0904,52.9716,3.76,38.77,1.37,34.47,2.57,100,1006,240, fog,07:57:23, 15:52:08,kujawsko-pomorskie,powiat bydgoski
- Pajęczno,18.9961,51.1445,2.36,36.25,-0.3,31.46,2.58,94,1008,305, overcast clouds,07:45:03, 15:57:13,łódzkie,powiat pajęczański
- Wschowa,16.3166,51.807,1.96,35.53,-1.03,30.15,2.86,87,1008,240, overcast clouds,07:58:49, 16:04:53,lubuskie,powiat wschowski
- Nysa,17.3344,50.4738,5.03,41.05,3.12,37.62,2.29,86,1008,291, overcast clouds,07:48:42, 16:06:52,opolskie,powiat nyski
- Krasnobród,23.2131,50.5455,5.19,41.34,3.03,37.45,2.61,85,1008,131, overcast clouds,07:25:31, 15:43:01,lubelskie,powiat zamojski
- Bukowno,19.4596,50.2647,4.84,40.71,1.98,35.56,3.48,94,1007,348, overcast clouds,07:39:18, 15:59:16,małopolskie,powiat olkuski
- Gniezno,17.5826,52.5348,3.05,37.49,0.51,32.92,2.59,95,1007,259, overcast clouds,07:57:15, 15:56:20,wielkopolskie,powiat gnieźnieński
- Tomaszów Lubelski,23.4162,50.4477,4.76,40.57,2.38,36.28,2.79,86,1008,129, overcast clouds,07:24:16, 15:42:37,lubelskie,powiat tomaszowski
- Sucha Beskidzka,19.5943,49.7419,3.85,38.93,2.18,35.92,1.86,98,1007,338, light rain,07:36:31, 16:00:57,małopolskie,powiat suski
- Włocławek,19.0678,52.6482,4.24,39.63,1.81,35.26,2.73,95,1007,272, overcast clouds,07:51:52, 15:49:50,kujawsko-pomorskie,powiat Włocławek
- Wojkowice,19.0365,50.3651,5.0,41.0,3.31,37.96,2.06,93,1006,300, mist,07:41:25, 16:00:31,śląskie,powiat będziński
- Gołuchów,17.9314,51.8504,3.94,39.09,1.57,34.83,2.59,93,1008,278, overcast clouds,07:52:34, 15:58:13,wielkopolskie,powiat pleszewski
- Nowy Dwór Mazowiecki,20.7165,52.4302,5.9,42.62,3.52,38.34,3.09,97,1006,240, mist,07:44:12, 15:44:18,mazowieckie,powiat nowodworski
- Kamienna Góra,16.0304,50.7831,3.99,39.18,3.02,37.44,1.34,78,1009,242, overcast clouds,07:55:17, 16:10:43,dolnośląskie,powiat kamiennogórski
- Świdnica,16.4886,50.8438,5.54,41.97,3.87,38.97,2.13,85,1009,246, overcast clouds,07:53:43, 16:08:37,dolnośląskie,powiat świdnicki
- Chojnice,17.557,53.6955,2.92,37.26,0.53,32.95,2.4,96,1006,265, overcast clouds,08:03:14, 15:50:33,pomorskie,powiat chojnicki
- Września,17.5652,52.3251,3.35,38.03,0.9,33.62,2.55,94,1007,263, overcast clouds,07:56:18, 15:57:25,wielkopolskie,powiat wrzesiński
- Tłuszcz,21.4356,52.4306,5.96,42.73,4.23,39.61,2.27,95,1007,236, overcast clouds,07:41:20, 15:41:25,mazowieckie,powiat wołomiński
- Maków Podhalański,19.6771,49.7301,4.02,39.24,2.5,36.5,1.76,98,1007,338, light rain,07:36:09, 16:00:40,małopolskie,powiat suski
- Kaszów,19.7193,50.0388,5.97,42.75,5.97,42.75,1.03,87,1006,290, light rain,07:37:17, 15:59:12,małopolskie,powiat krakowski
- Koziegłowy,19.163,50.6003,4.87,40.77,2.69,36.84,2.57,100,1006,310, broken clouds,07:41:57, 15:58:59,śląskie,powiat myszkowski
- Kudowa-Zdrój,16.244,50.443,3.88,38.98,3.88,38.98,1.14,98,1009,244, overcast clouds,07:52:56, 16:11:22,dolnośląskie,powiat kłodzki
- Kalwaria Zebrzydowska,19.6772,49.8676,5.23,41.41,3.4,38.12,2.24,96,1007,338, light rain,07:36:43, 16:00:06,małopolskie,powiat wadowicki
- Radzyń Podlaski,22.6167,51.7833,5.72,42.3,3.73,38.71,2.53,91,1008,173, overcast clouds,07:33:31, 15:39:47,lubelskie,powiat radzyński
- Piaseczno,21.024,52.0814,5.92,42.66,2.66,36.79,4.63,93,998,280, broken clouds,07:41:18, 15:44:45,mazowieckie,powiat piaseczeński
- Krasnystaw,23.1742,50.9846,3.81,38.86,0.75,33.35,3.45,86,1008,149, overcast clouds,07:27:37, 15:41:13,lubelskie,powiat krasnostawski
- Pruszcz Gdański,18.6363,54.2622,4.54,40.17,0.69,33.24,5.14,96,1005,280, broken clouds,08:01:56, 15:43:12,pomorskie,powiat gdański
- Biskupiec,20.9569,53.8647,4.9,40.82,2.99,37.38,2.27,99,1006,218, overcast clouds,07:50:32, 15:36:03,warmińsko-mazurskie,powiat olsztyński
- Knurów,18.6507,50.2197,5.35,41.63,2.75,36.95,3.26,92,1007,353, light rain,07:42:20, 16:02:42,śląskie,powiat gliwicki
- Działdowo,20.17,53.2396,3.87,38.97,1.17,34.11,2.97,98,1006,259, overcast clouds,07:50:25, 15:42:27,warmińsko-mazurskie,powiat działdowski
- Brzesko,20.6061,49.9691,5.88,42.58,5.88,42.58,1.12,90,1006,5, light rain,07:33:27, 15:55:56,małopolskie,powiat brzeski
- Storkowo,16.4748,53.7961,5.06,41.11,3.13,37.63,2.32,96,1006,225, overcast clouds,08:08:05, 15:54:21,zachodniopomorskie,powiat szczecinecki
- Kluczbork,18.2182,50.9728,2.63,36.73,0.33,32.59,2.26,89,1008,309, overcast clouds,07:47:23, 16:01:07,opolskie,powiat kluczborski
- Chodzież,16.9198,52.995,3.12,37.62,0.93,33.67,2.23,95,1007,245, overcast clouds,08:02:11, 15:56:42,wielkopolskie,powiat chodzieski
- Borsukowizna,23.6487,53.2188,3.17,37.71,-0.76,30.63,4.64,94,1008,164, overcast clouds,07:36:25, 15:28:38,podlaskie,powiat sokolski
- Oleśnica,17.3899,51.2134,5.43,41.77,3.34,38.01,2.58,73,989,284, overcast clouds,07:51:47, 16:03:20,dolnośląskie,powiat oleśnicki
- Stoki,15.8135,52.5068,4.93,40.87,2.85,37.13,2.46,94,1007,237, overcast clouds,08:04:11, 16:03:33,lubuskie,powiat międzyrzecki
- Gorzyce,21.8401,50.6672,5.77,42.39,5.77,42.39,1.2,86,1006,167, overcast clouds,07:31:32, 15:47:58,podkarpackie,powiat tarnobrzeski
- Krynica,20.9594,49.4222,3.21,37.78,3.21,37.78,0.97,98,1007,123, light rain,07:29:44, 15:56:50,małopolskie,powiat nowosądecki
- Adamów,22.2641,51.7434,5.91,42.64,4.36,39.85,2.07,93,1007,190, overcast clouds,07:34:44, 15:41:23,lubelskie,powiat łukowski
- Florianka,22.9873,50.5566,3.82,38.88,1.79,35.22,2.2,86,1008,131, overcast clouds,07:26:28, 15:43:52,lubelskie,powiat biłgorajski
- Rejowiec Fabryczny,23.2472,51.1141,3.7,38.66,0.45,32.81,3.7,86,1008,150, overcast clouds,07:27:55, 15:40:20,lubelskie,powiat chełmski
- Suwałki,22.9309,54.1118,2.67,36.81,-0.97,30.25,3.95,98,1007,180, overcast clouds,07:43:57, 15:26:49,podlaskie,powiat Suwałki
- Jedlina-Zdrój,16.3465,50.7201,4.0,39.2,2.62,36.72,1.64,85,1008,233, overcast clouds,07:53:44, 16:09:44,dolnośląskie,powiat wałbrzyski
- Guty Duże,21.271,52.9366,7.03,44.65,5.19,41.34,2.65,96,1007,242, overcast clouds,07:44:29, 15:39:34,mazowieckie,powiat makowski
- Przerzeczyn-Zdrój,16.8204,50.6856,5.33,41.59,3.95,39.11,1.81,90,1008,250, overcast clouds,07:51:41, 16:07:59,dolnośląskie,powiat dzierżanowski
- Police,14.5718,53.5521,4.26,39.67,4.26,39.67,0.45,91,1004,198, broken clouds,08:14:25, 16:03:15,zachodniopomorskie,powiat policki
- Solec Kujawski,18.2257,53.0837,4.39,39.9,1.71,35.08,3.09,99,1006,230, mist,07:57:24, 15:51:02,kujawsko-pomorskie,powiat bydgoski
- Januszkowice,18.1368,50.3919,5.32,41.58,2.96,37.33,2.91,85,1008,339, light rain,07:45:08, 16:04:00,opolskie,powiat krapkowicki
- Bartoszyce,20.8082,54.2535,4.7,40.46,2.37,36.27,2.71,97,1005,223, overcast clouds,07:53:13, 15:34:33,warmińsko-mazurskie,powiat bartoszycki
- Bochnia,20.4303,49.9691,5.93,42.67,4.93,40.87,1.56,92,1007,2, light rain,07:34:09, 15:56:39,małopolskie,powiat bocheński
- Trzepowo,18.2764,54.169,3.71,38.68,3.71,38.68,0.89,98,977,196, overcast clouds,08:02:52, 15:45:09,pomorskie,powiat gdański
- Połczyn-Zdrój,16.0957,53.7642,5.05,41.09,2.81,37.06,2.68,95,1006,223, overcast clouds,08:09:26, 15:56:03,zachodniopomorskie,powiat świdwiński
- Zgorzelec,15.0084,51.1494,3.91,39.04,3.91,39.04,0.89,92,1006,270, overcast clouds,08:01:01, 16:13:10,dolnośląskie,powiat zgorzelecki
- Lębork,17.7501,54.5392,4.79,40.62,1.77,35.19,3.72,98,1005,247, overcast clouds,08:07:00, 15:45:14,pomorskie,powiat lęborski
- Pszczyna,18.9538,49.9804,5.04,41.07,2.48,36.46,3.1,88,1007,357, light rain,07:40:06, 16:02:31,śląskie,powiat pszczyński
- Tomaszów Mazowiecki,20.0086,51.5313,5.67,42.21,3.77,38.79,2.41,10,1008,290, overcast clouds,07:42:46, 15:51:24,łódzkie,powiat tomaszowski
- Żary,15.1373,51.6421,3.34,38.01,1.68,35.02,1.79,90,1007,251, overcast clouds,08:02:46, 16:10:23,lubuskie,powiat żarski
- Zielona Góra,15.5064,51.9355,3.87,38.97,0.67,33.21,3.68,44,1009,250, overcast clouds,08:02:40, 16:07:32,lubuskie,powiat Zielona Góra
- Lwówek Śląski,15.5858,51.1107,4.49,40.08,1.47,34.65,3.61,84,1009,251, overcast clouds,07:58:32, 16:11:02,dolnośląskie,powiat lwówecki
- Goleniów,14.8285,53.5639,4.26,39.67,2.44,36.39,2.06,100,1005,140, broken clouds,08:13:27, 16:02:10,zachodniopomorskie,powiat goleniowski
+ Brzeg Głogowski,15.9154,51.6969,8.44,47.19,5.06,41.11,6.6,84,1010,224, overcast clouds,07:58:39, 16:09:51,dolnośląskie,powiat głogowski
+ Starogard Gdański,18.5264,53.964,8.45,47.21,4.49,40.08,8.64,100,1002,209, overcast clouds,07:59:17, 15:48:20,pomorskie,powiat starogardzki
+ Pułtusk,21.0828,52.7025,5.98,42.76,1.77,35.19,7.01,93,1012,203, broken clouds,07:42:43, 15:44:26,mazowieckie,powiat pułtuski
+ Legionowo,20.9266,52.4015,6.08,42.94,2.4,36.32,5.66,87,976,180, broken clouds,07:41:54, 15:46:30,mazowieckie,powiat legionowski
+ Kędzierzyn-Koźle,18.2261,50.3498,7.11,44.8,3.25,37.85,6.91,84,1016,208, overcast clouds,07:43:28, 16:06:33,opolskie,powiat kędzierzyńsko-kozielki
+ Kętrzyn,21.3753,54.0768,6.11,43.0,1.32,34.38,9.03,79,1009,199, broken clouds,07:48:29, 15:36:20,warmińsko-mazurskie,powiat kętrzyński
+ Jędrzejów,20.3045,50.6394,3.41,38.14,3.41,38.14,0.89,73,1014,181, broken clouds,07:36:24, 15:56:59,świętokrzyskie,powiat jędrzejewski
+ Trzebnica,17.0633,51.3108,7.8,46.04,4.41,39.94,6.1,78,1012,220, overcast clouds,07:52:19, 16:07:00,dolnośląskie,powiat trzebnicki
+ Szczawno-Zdrój,16.2566,50.8035,5.96,42.73,2.34,36.21,5.44,83,1013,218, overcast clouds,07:53:18, 16:12:29,dolnośląskie,powiat Wałbrzych
+ Proszowice,20.2891,50.1927,5.01,41.02,2.38,36.28,3.19,73,1017,210, broken clouds,07:34:33, 15:58:57,małopolskie,powiat proszowicki
+ Stalowa Wola,22.0533,50.5829,3.64,38.55,1.54,34.77,2.24,84,1016,220, overcast clouds,07:29:10, 15:50:14,podkarpackie,powiat stalowowolski
+ Jasło,21.4725,49.7451,3.13,37.63,-1.19,29.86,5.38,87,1018,190, broken clouds,07:27:57, 15:56:05,podkarpackie,powiat jasielski
+ Nidzica,20.4275,53.3605,5.77,42.39,1.31,34.36,7.58,80,1010,206, overcast clouds,07:48:35, 15:43:49,warmińsko-mazurskie,powiat nidzicki
+ Sokolec,16.4731,50.6544,5.37,41.67,4.59,40.26,1.34,89,1014,135, overcast clouds,07:51:47, 16:12:16,dolnośląskie,powiat kłodzki
+ Opole,18.0,50.5,4.46,40.03,0.44,32.79,5.48,83,1015,201, overcast clouds,07:45:01, 16:06:49,opolskie,powiat krapkowicki
+ Jarczew,21.9569,51.8144,3.45,38.21,-1.11,30.0,6.09,89,1015,199, overcast clouds,07:35:02, 15:45:08,lubelskie,powiat łukowski
+ Nieszawa,18.8992,52.8345,7.26,45.07,3.17,37.71,7.8,84,1010,212, overcast clouds,07:52:05, 15:52:32,kujawsko-pomorskie,powiat aleksandrowski
+ Tarnów,20.987,50.0138,2.97,37.35,-0.2,31.64,3.35,87,1018,181, broken clouds,07:31:00, 15:56:55,małopolskie,powiat Tarnów
+ Szczawnica,20.4849,49.4244,1.98,35.56,-0.73,30.69,2.56,94,1020,186, overcast clouds,07:30:35, 16:01:21,małopolskie,powiat nowotarski
+ Parzniewice,19.5171,51.2982,5.04,41.07,0.6,33.08,6.9,77,1014,216, overcast clouds,07:42:27, 15:57:14,łódzkie,powiat piotrkowski
+ Gryfice,15.2003,53.9165,10.57,51.03,9.95,49.91,8.73,87,1003,215, overcast clouds,08:12:20, 16:01:54,zachodniopomorskie,powiat gryficki
+ Sanok,22.2056,49.5557,2.64,36.75,-1.64,29.05,5.04,100,1019,196, few clouds,07:24:14, 15:53:56,podkarpackie,powiat sanocki
+ Widuchowa,14.3907,53.1269,9.5,49.1,5.84,42.51,8.73,83,1005,220, overcast clouds,08:11:33, 16:09:09,zachodniopomorskie,powiat gryfiński
+ Bogatynia,14.9563,50.9075,7.4,45.32,4.58,40.24,4.47,87,1009,206, overcast clouds,07:58:57, 16:17:14,dolnośląskie,powiat zgorzelecki
+ Ostrowiec Świętokrzyski,21.3853,50.9294,2.6,36.68,-1.51,29.28,4.71,85,1017,198, broken clouds,07:33:20, 15:51:24,świętokrzyskie,powiat ostrowiecki
+ Kostrza,16.2649,50.9851,6.9,44.42,3.32,37.98,5.96,80,1013,220, overcast clouds,07:54:03, 16:11:39,dolnośląskie,powiat świdnicki
+ Brześć Kujawski,18.9017,52.6053,9.0,48.2,5.44,41.79,7.76,85,1010,212, overcast clouds,07:50:58, 15:53:38,kujawsko-pomorskie,powiat włocławski
+ Przemyśl,22.7673,49.785,2.84,37.11,0.22,32.4,2.63,88,1019,184, few clouds,07:22:56, 15:50:44,podkarpackie,powiat Przemyśl
+ Międzyrzecz,15.578,52.4446,9.04,48.27,5.73,42.31,6.93,82,1008,223, overcast clouds,08:03:29, 16:07:43,lubuskie,powiat międzyrzecki
+ Katowice,19.0275,50.2584,4.91,40.84,3.03,37.45,2.24,86,1014,199, overcast clouds,07:39:52, 16:03:44,śląskie,powiat Katowice
+ Korsze,21.1392,54.17,6.7,44.06,2.1,35.78,8.99,78,1008,202, overcast clouds,07:49:55, 15:36:47,warmińsko-mazurskie,powiat kętrzyński
+ Dorohusk,23.8032,51.1548,2.17,35.91,-2.09,28.24,4.79,89,1018,195, few clouds,07:24:40, 15:40:43,lubelskie,powiat chełmski
+ Sochaczew,20.2384,52.2294,5.7,42.26,1.38,34.48,7.09,87,1013,212, overcast clouds,07:43:50, 15:50:04,mazowieckie,powiat sochaczewski
+ Międzyrzec Podlaski,22.7825,51.9864,3.95,39.11,-0.36,31.35,5.83,89,1016,196, scattered clouds,07:32:32, 15:41:01,lubelskie,powiat bialski
+ Koszalin,16.1722,54.1944,8.85,47.93,5.1,41.18,8.3,83,1003,218, overcast clouds,08:09:54, 15:56:33,zachodniopomorskie,powiat Koszalin
+ Prudnik,17.5746,50.3212,6.95,44.51,4.02,39.24,4.47,84,1015,218, overcast clouds,07:45:57, 16:09:17,opolskie,powiat prudnicki
+ Polańczyk,22.4211,49.3697,0.94,33.69,-2.9,26.78,3.67,100,1020,194, broken clouds,07:22:37, 15:53:50,podkarpackie,powiat leski
+ Krempna,21.5004,49.5113,2.42,36.36,-1.74,28.87,4.72,100,1020,183, broken clouds,07:26:52, 15:56:56,podkarpackie,powiat jasielski
+ Zamość,23.252,50.7231,3.66,38.59,-0.38,31.32,5.08,88,1018,202, few clouds,07:24:58, 15:44:49,lubelskie,powiat Zamość
+ Kołuda Wielka,18.1489,52.7344,8.51,47.32,6.93,44.47,2.68,69,1005,0, overcast clouds,07:54:36, 15:56:02,kujawsko-pomorskie,powiat inowrocławski
+ Andrychów,19.3383,49.855,3.65,38.57,0.36,32.65,3.75,96,1017,208, overcast clouds,07:36:56, 16:04:11,małopolskie,powiat wadowicki
+ Środa Śląska,16.5951,51.1641,8.28,46.9,4.89,40.8,6.48,76,1012,225, overcast clouds,07:53:32, 16:09:32,dolnośląskie,powiat średzki
+ Chełmża,18.6047,53.1846,7.28,45.1,3.11,37.6,8.08,85,1009,210, overcast clouds,07:54:59, 15:51:59,kujawsko-pomorskie,powiat toruński
+ Częstochowa,19.1241,50.7965,5.51,41.92,1.17,34.11,7.0,81,1015,219, overcast clouds,07:41:48, 16:01:02,śląskie,powiat Częstochowa
+ Ostróda,19.9649,53.6967,6.59,43.86,2.36,36.25,7.61,81,1008,208, overcast clouds,07:52:09, 15:43:57,warmińsko-mazurskie,powiat ostródzki
+ Kamień Pomorski,14.7726,53.9685,7.09,44.76,2.52,36.54,9.34,88,1003,214, overcast clouds,08:14:18, 16:03:21,zachodniopomorskie,powiat kamieński
+ Będzin,19.1257,50.3261,4.93,40.87,1.43,34.57,4.63,84,1014,200, clear sky,07:39:46, 16:03:03,śląskie,powiat będziński
+ Żywiec,19.1924,49.6853,4.92,40.86,1.76,35.17,4.0,82,1018,205, light rain,07:36:49, 16:05:28,śląskie,powiat żywiecki
+ Glitajny,21.1575,54.1867,6.78,44.2,2.2,35.96,9.0,78,1008,202, overcast clouds,07:49:56, 15:36:38,warmińsko-mazurskie,powiat kętrzyński
+ Chodecz,19.0276,52.4051,6.75,44.15,2.56,36.61,7.64,85,1011,212, overcast clouds,07:49:30, 15:54:05,kujawsko-pomorskie,powiat włocławski
+ Giżycko,21.7644,54.0381,5.27,41.49,0.31,32.56,8.71,81,1010,198, broken clouds,07:46:43, 15:34:59,warmińsko-mazurskie,powiat giżycki
+ Brodnica,19.3965,53.2597,9.58,49.24,6.05,42.89,8.28,83,1009,212, overcast clouds,07:52:12, 15:48:27,kujawsko-pomorskie,powiat brodnicki
+ Mieczysławów,21.6559,51.3687,3.65,38.57,-0.5,31.1,5.31,92,1016,194, broken clouds,07:34:12, 15:48:22,mazowieckie,powiat zwoleński
+ Kobierzyce,16.9351,50.9705,8.06,46.51,5.32,41.58,4.63,79,1012,220, broken clouds,07:51:19, 16:09:02,dolnośląskie,powiat wrocławski
+ Niepołomice,20.2226,50.0407,5.5,41.9,5.5,41.9,0.89,70,993,237, broken clouds,07:34:10, 15:59:52,małopolskie,powiat wielicki
+ Włodawa,23.55,51.55,2.19,35.94,-2.01,28.38,4.69,90,1017,196, few clouds,07:27:27, 15:39:57,lubelskie,powiat włodawski
+ Miasteczko Śląskie,18.9395,50.5026,5.05,41.09,1.58,34.84,4.63,82,1014,200, clear sky,07:41:16, 16:03:02,śląskie,powiat tarnogórski
+ Chełm,23.4716,51.1431,2.16,35.89,-2.4,27.68,5.36,89,1018,201, few clouds,07:25:56, 15:42:06,lubelskie,powiat Chełm
+ Żukowice,15.9815,51.673,8.73,47.71,5.46,41.83,6.52,83,1011,224, overcast clouds,07:58:16, 16:09:42,dolnośląskie,powiat głogowski
+ Kęty,19.2233,49.8821,4.52,40.14,1.08,33.94,4.34,89,1017,212, overcast clouds,07:37:30, 16:04:32,małopolskie,powiat oświęcimski
+ Ozorków,19.2914,51.9634,7.02,44.64,2.9,37.22,7.65,86,1012,212, overcast clouds,07:46:23, 15:55:07,łódzkie,powiat zgierski
+ Świdnik,22.6962,51.219,3.63,38.53,-0.45,31.19,5.14,93,1016,200, clear sky,07:29:23, 15:44:52,lubelskie,powiat świdnicki
+ Kutno,19.3641,52.2306,6.98,44.56,2.86,37.15,7.62,82,1012,214, overcast clouds,07:47:20, 15:53:34,łódzkie,powiat kutnowski
+ Iława,19.5685,53.596,7.1,44.78,2.82,37.08,8.3,83,1008,209, overcast clouds,07:53:13, 15:46:04,warmińsko-mazurskie,powiat iławski
+ Żagań,15.3149,51.6176,7.87,46.17,4.51,40.12,6.08,86,1010,226, overcast clouds,08:00:41, 16:12:37,lubuskie,powiat żagański
+ Nowa Sól,15.717,51.8033,8.33,46.99,4.86,40.75,6.78,84,1010,225, overcast clouds,07:59:56, 16:10:10,lubuskie,powiat nowosolski
+ Zambrów,22.2432,52.9855,4.78,40.6,0.34,32.61,6.7,83,1013,199, overcast clouds,07:39:28, 15:38:24,podlaskie,powiat zambrowski
+ Horyniec-Zdrój,23.3628,50.1915,2.92,37.26,-0.52,31.06,3.73,90,1019,183, scattered clouds,07:22:15, 15:46:39,podkarpackie,powiat lubaczowski
+ Wadowice,19.4929,49.8834,3.42,38.16,0.51,32.92,3.13,96,1018,298, overcast clouds,07:36:26, 16:03:26,małopolskie,powiat wadowicki
+ Jasna Góra,14.9589,50.8734,6.61,43.9,3.12,37.62,5.55,87,1012,218, overcast clouds,07:58:47, 16:17:22,dolnośląskie,powiat zgorzelecki
+ Ustrzyki Dolne,22.5938,49.4304,1.18,34.12,-2.26,27.93,3.22,100,1020,194, scattered clouds,07:22:10, 15:52:53,podkarpackie,powiat bieszczadzki
+ Szczytno,20.9875,53.5626,5.96,42.73,1.86,35.35,6.69,81,1009,180, broken clouds,07:47:22, 15:40:33,warmińsko-mazurskie,powiat szczycieński
+ Czarna,21.2561,50.0672,2.98,37.36,-0.27,31.51,3.47,89,1018,177, overcast clouds,07:30:09, 15:55:37,podkarpackie,powiat dębicki
+ Sopot,18.56,54.4418,7.83,46.09,5.28,41.5,4.12,89,1004,210, broken clouds,08:01:40, 15:45:40,pomorskie,powiat Sopot
+ Miechów,20.0279,50.3565,3.69,38.64,-0.28,31.5,4.95,78,1017,225, broken clouds,07:36:17, 15:59:18,małopolskie,powiat miechowski
+ Gajew,19.7558,52.2289,6.98,44.56,2.97,37.35,7.28,77,1012,212, overcast clouds,07:45:46, 15:52:01,łódzkie,powiat giżycki
+ Zielonka,21.1602,52.3038,5.77,42.39,1.95,35.51,5.82,89,1013,202, overcast clouds,07:40:30, 15:46:02,mazowieckie,powiat wołomiński
+ Racibórz,18.2193,50.0919,7.26,45.07,3.34,38.01,7.23,84,1016,210, overcast clouds,07:42:24, 16:07:40,śląskie,powiat raciborski
+ Wąbrzeźno,18.9477,53.2799,9.31,48.76,5.65,42.17,8.5,86,1009,211, overcast clouds,07:54:06, 15:50:09,kujawsko-pomorskie,powiat wąbrzeski
+ Wolbrom,19.7583,50.3796,3.51,38.32,-1.13,29.97,6.31,78,1016,228, overcast clouds,07:37:28, 16:00:17,małopolskie,powiat olkuski
+ Konstancin-Jeziorna,21.1176,52.0938,5.59,42.06,2.52,36.54,4.12,88,1003,180, few clouds,07:39:41, 15:47:11,mazowieckie,powiat piaseczeński
+ Kielce,20.6275,50.8703,3.59,38.46,3.59,38.46,0.45,34,1001,0, overcast clouds,07:36:07, 15:54:41,świętokrzyskie,powiat Kielce
+ Chojnów,15.9366,51.2737,8.24,46.83,4.82,40.68,6.54,81,1012,226, overcast clouds,07:56:39, 16:11:41,dolnośląskie,powiat legnicki
+ Golub-Dobrzyń,19.0538,53.1109,7.69,45.84,3.61,38.5,8.21,84,1009,212, overcast clouds,07:52:50, 15:50:34,kujawsko-pomorskie,powiat golubsko-dobrzyński
+ Pleszew,17.7855,51.8964,7.22,45.0,3.26,37.87,7.33,83,1011,214, overcast clouds,07:52:05, 16:01:27,wielkopolskie,powiat pleszewski
+ Grajewo,22.4554,53.6473,4.65,40.37,-0.12,31.78,7.53,85,1012,199, overcast clouds,07:41:56, 15:34:14,podlaskie,powiat grajewski
+ Maków Mazowiecki,21.1005,52.8649,5.89,42.6,1.53,34.75,7.38,78,1012,203, broken clouds,07:43:26, 15:43:34,mazowieckie,powiat makowski
+ Łęczna,22.8814,51.3012,4.15,39.47,0.21,32.38,5.14,93,1016,200, clear sky,07:29:00, 15:43:45,lubelskie,powiat łęczyński
+ Bielsk Podlaski,23.1865,52.7651,3.57,38.43,-1.25,29.75,6.81,90,1015,195, overcast clouds,07:34:37, 15:35:42,podlaskie,powiat bielski
+ Opatów,21.4254,50.8006,2.59,36.66,-1.32,29.62,4.35,89,1017,196, broken clouds,07:32:37, 15:51:48,świętokrzyskie,powiat opatowski
+ Wieliczka,20.0647,49.9874,4.64,40.35,3.76,38.77,1.34,69,1015,201, broken clouds,07:34:35, 16:00:43,małopolskie,powiat wielicki
+ Łeba,17.5555,54.761,7.7,45.86,3.11,37.6,10.25,100,1002,218, overcast clouds,08:07:25, 15:47:58,pomorskie,powiat lęborski
+ Dobrzyń nad Wisłą,19.3188,52.6381,6.91,44.44,2.93,37.27,7.13,83,1011,211, overcast clouds,07:49:28, 15:51:49,kujawsko-pomorskie,powiat lipnowski
+ Lubaczów,23.1234,50.157,2.51,36.52,-0.81,30.54,3.43,90,1019,178, few clouds,07:23:04, 15:47:46,podkarpackie,powiat lubaczowski
+ Zameczno,15.9297,51.6708,8.63,47.53,5.33,41.59,6.53,83,1011,224, overcast clouds,07:58:28, 16:09:55,dolnośląskie,powiat głogowski
+ Kłodzko,16.6614,50.4349,6.26,43.27,2.74,36.93,5.4,90,1014,221, overcast clouds,07:50:05, 16:12:27,dolnośląskie,powiat kłodzki
+ Białystok,23.15,53.1333,4.32,39.78,1.28,34.3,3.58,93,1013,186, overcast clouds,07:36:34, 15:34:03,podlaskie,powiat Białystok
+ Kartuzy,18.1974,54.3342,6.71,44.08,3.9,39.02,4.12,92,1003,210, broken clouds,08:02:33, 15:47:42,pomorskie,powiat kartuski
+ Dębno,14.698,52.739,9.61,49.3,6.18,43.12,7.96,83,1006,221, overcast clouds,08:08:25, 16:09:49,zachodniopomorskie,powiat myśliborski
+ Opoczno,20.2783,51.3757,4.95,40.91,0.8,33.44,6.08,75,1015,214, overcast clouds,07:39:45, 15:53:51,łódzkie,powiat opoczyński
+ Ełk,22.3647,53.8282,4.71,40.48,-0.03,31.95,7.48,84,1011,200, broken clouds,07:43:14, 15:33:40,warmińsko-mazurskie,powiat ełcki
+ Gubin,14.7284,51.9496,9.95,49.91,6.71,44.08,7.62,83,1009,230, overcast clouds,08:04:33, 16:13:27,lubuskie,powiat krośnieński
+ Końskie,20.4061,51.1917,3.53,38.35,-0.66,30.81,5.32,77,1015,214, overcast clouds,07:38:25, 15:54:09,świętokrzyskie,powiat konecki
+ Mogilno,17.9558,52.6581,8.03,46.45,4.08,39.34,8.12,83,1004,214, overcast clouds,07:55:00, 15:57:10,kujawsko-pomorskie,powiat mogileński
+ Kraśnik,22.2271,50.9236,3.22,37.8,-1.02,30.16,5.27,91,1017,186, overcast clouds,07:29:57, 15:48:03,lubelskie,powiat kraśnicki
+ Piotrkowice,16.7273,52.1415,8.59,47.46,4.97,40.95,7.54,82,1010,221, overcast clouds,07:57:28, 16:04:33,wielkopolskie,powiat kościański
+ Pruszków,20.8121,52.1707,5.62,42.12,2.55,36.59,4.12,88,1012,180, few clouds,07:41:16, 15:48:03,mazowieckie,powiat pruszkowski
+ Działoszyn,18.8652,51.117,5.98,42.76,1.93,35.47,6.55,81,1014,215, overcast clouds,07:44:14, 16:00:39,łódzkie,powiat pajęczański
+ Skawina,19.8287,49.9752,4.43,39.97,4.43,39.97,0.51,73,1015,0, clear sky,07:35:28, 16:01:43,małopolskie,powiat krakowski
+ Ruda Śląska,18.8563,50.2584,5.56,42.01,4.8,40.64,1.34,85,1013,146, overcast clouds,07:40:33, 16:04:25,śląskie,powiat Ruda Śląska
+ Sokołów Podlaski,22.2531,52.4068,4.63,40.33,0.07,32.13,6.9,85,1014,199, overcast clouds,07:36:37, 15:41:10,mazowieckie,powiat sokołowski
+ Gryfino,14.4883,53.2524,9.57,49.23,5.98,42.76,8.54,87,1005,218, overcast clouds,08:11:47, 16:08:08,zachodniopomorskie,powiat gryfiński
+ Cieszyn,18.6321,49.7513,6.74,44.13,3.7,38.66,4.6,87,1018,201, overcast clouds,07:39:20, 16:07:26,śląskie,powiat cieszyński
+ Siedlce,22.2901,52.1677,4.8,40.64,0.39,32.7,6.64,85,1015,200, overcast clouds,07:35:21, 15:42:09,mazowieckie,powiat Siedlce
+ Łowicz,19.9453,52.1071,6.96,44.53,2.92,37.26,7.36,75,1013,213, overcast clouds,07:44:26, 15:51:49,łódzkie,powiat łowicki
+ Czerwionka-Leszczyny,18.6776,50.1501,6.49,43.68,2.43,36.37,6.98,83,1017,219, overcast clouds,07:40:49, 16:05:35,śląskie,powiat rybnicki
+ Iwonicz-Zdrój,21.7899,49.5632,2.58,36.64,-3.95,24.89,11.18,95,1028,201, scattered clouds,07:25:56, 15:55:34,podkarpackie,powiat krośnieński
+ Władysławowo,18.4009,54.7909,8.31,46.96,4.06,39.31,9.61,83,1003,212, overcast clouds,08:04:12, 15:44:25,pomorskie,powiat pucki
+ Rybnik,18.5418,50.0971,7.0,44.6,3.34,38.01,6.26,83,1014,201, overcast clouds,07:41:08, 16:06:21,śląskie,powiat Rybnik
+ Nowy Tomyśl,16.1284,52.3195,8.92,48.06,5.53,41.95,7.06,83,1009,222, overcast clouds,08:00:42, 16:06:06,wielkopolskie,powiat nowotomyski
+ Bielawa,16.623,50.6908,7.45,45.41,3.67,38.61,6.97,88,1012,225, overcast clouds,07:51:20, 16:11:30,dolnośląskie,powiat dzierżanowski
+ Złotoryja,15.9198,51.1264,7.2,44.96,3.63,38.53,6.16,83,1012,225, overcast clouds,07:56:04, 16:12:24,dolnośląskie,powiat złotoryjski
+ Krotoszyn,17.4374,51.6987,9.19,48.54,6.03,42.85,6.56,82,1012,214, overcast clouds,07:52:34, 16:03:45,wielkopolskie,powiat krotoszyński
+ Borucin,18.1575,50.0076,7.16,44.89,3.18,37.72,7.33,85,1017,209, overcast clouds,07:42:18, 16:08:16,śląskie,powiat raciborski
+ Kołobrzeg,15.5834,54.1757,10.64,51.15,10.01,50.02,10.21,86,1003,221, overcast clouds,08:12:09, 15:59:00,zachodniopomorskie,powiat kołobrzeski
+ Wałcz,16.4712,53.2779,7.86,46.15,4.3,39.74,6.67,87,1006,216, overcast clouds,08:03:59, 16:00:04,zachodniopomorskie,powiat wałecki
+ Radomsko,19.4448,51.0671,4.73,40.51,0.13,32.23,7.11,77,1015,219, broken clouds,07:41:42, 15:58:33,łódzkie,powiat radomszczański
+ Górne Gruczno,18.3136,53.367,7.33,45.19,4.49,40.08,4.47,78,1003,176, overcast clouds,07:57:04, 15:52:15,kujawsko-pomorskie,powiat świecki
+ Lubań,15.2877,51.1201,7.44,45.39,4.09,39.36,5.73,87,1012,221, overcast clouds,07:58:34, 16:14:58,dolnośląskie,powiat lubański
+ Piastów,20.8395,52.1843,5.59,42.06,2.52,36.54,4.12,88,1011,180, few clouds,07:41:13, 15:47:53,mazowieckie,powiat pruszkowski
+ Gorzów Wielkopolski,15.2288,52.7368,9.66,49.39,6.39,43.5,7.39,100,1005,225, overcast clouds,08:06:17, 16:07:43,lubuskie,powiat Gorzów Wielkopolski
+ Przysiek,18.4997,53.0324,7.75,45.95,7.75,45.95,0.45,85,1009,334, overcast clouds,07:54:39, 15:53:10,kujawsko-pomorskie,powiat toruński
+ Świecie,18.4474,53.4095,7.4,45.32,4.58,40.24,4.47,78,1003,176, overcast clouds,07:56:45, 15:51:30,kujawsko-pomorskie,powiat świecki
+ Sokółka,23.5023,53.4072,4.59,40.26,0.13,32.23,6.62,89,1013,193, overcast clouds,07:36:32, 15:31:16,podlaskie,powiat sokolski
+ Szczecin,14.553,53.4289,9.53,49.15,7.22,45.0,4.47,91,1003,190, overcast clouds,08:12:25, 16:06:59,zachodniopomorskie,powiat Szczecin
+ Mława,20.3841,53.1128,6.34,43.41,1.89,35.4,8.07,78,1010,206, overcast clouds,07:47:31, 15:45:13,mazowieckie,powiat mławski
+ Bolesławiec,15.5697,51.2642,6.74,44.13,2.78,37.0,6.91,83,1011,230, overcast clouds,07:58:04, 16:13:12,dolnośląskie,powiat bolesławiecki
+ Dzierżoniów,16.6514,50.7282,7.53,45.55,3.67,38.61,7.3,88,1014,226, overcast clouds,07:51:23, 16:11:14,dolnośląskie,powiat dzierżanowski
+ Szklarska Poręba,15.5227,50.8257,4.66,40.39,1.36,34.45,4.14,79,1013,219, light rain,07:56:19, 16:15:19,dolnośląskie,powiat jeleniogórski
+ Borówiec,17.0424,52.28,8.5,47.3,4.83,40.69,7.6,82,1010,221, overcast clouds,07:56:51, 16:02:38,wielkopolskie,powiat poznański
+ Połaniec,21.2812,50.4332,3.75,38.75,3.75,38.75,0.45,97,1018,301, broken clouds,07:31:36, 15:53:58,świętokrzyskie,powiat staszowski
+ Gostynin,19.4619,52.4294,7.07,44.73,3.24,37.83,6.81,82,1011,213, overcast clouds,07:47:53, 15:52:14,mazowieckie,powiat gostyniński
+ Słupsk,17.0287,54.4641,8.03,46.45,3.9,39.02,8.78,83,1003,223, overcast clouds,08:07:55, 15:51:41,pomorskie,powiat Słupsk
+ Dąbrowa Górnicza,19.2374,50.3182,4.67,40.41,0.51,32.92,5.91,87,1014,221, overcast clouds,07:39:17, 16:02:38,śląskie,powiat Dąbrowa Górnicza
+ Żyrardów,20.446,52.0488,5.37,41.67,0.98,33.76,7.02,77,1013,209, overcast clouds,07:42:10, 15:50:05,mazowieckie,powiat żyrardowski
+ Nowy Targ,20.0323,49.4778,1.47,34.65,-0.08,31.86,1.5,89,1020,192, broken clouds,07:32:36, 16:02:57,małopolskie,powiat nowotarski
+ Siemiatycze,22.8623,52.4272,4.27,39.69,-0.19,31.66,6.38,88,1015,198, broken clouds,07:34:17, 15:38:38,podlaskie,powiat siemiatycki
+ Komańcza,22.0617,49.3392,1.74,35.13,-2.23,27.99,4.13,92,1020,190, scattered clouds,07:23:56, 15:55:23,podkarpackie,powiat sanocki
+ Wiktorowo,18.8585,53.4031,8.89,48.0,5.14,41.25,8.32,80,1008,209, overcast clouds,07:55:04, 15:49:53,kujawsko-pomorskie,powiat grudziądzki
+ Kwidzyn,18.9311,53.7249,7.8,46.04,3.62,38.52,8.72,85,1007,209, overcast clouds,07:56:25, 15:47:57,pomorskie,powiat kwidzyński
+ Szamotuły,16.5779,52.612,8.52,47.34,4.85,40.73,7.63,83,1008,220, overcast clouds,08:00:18, 16:02:55,wielkopolskie,powiat szamotulski
+ Turek,18.5005,52.0155,7.56,45.61,3.58,38.44,7.71,85,1012,212, overcast clouds,07:49:47, 15:58:02,wielkopolskie,powiat turecki
+ Czarna Góra,20.1305,49.3766,-0.11,31.8,-2.57,27.37,1.99,89,1020,201, overcast clouds,07:31:48, 16:02:58,małopolskie,powiat tatrzański
+ Sierpc,19.6691,52.8568,6.81,44.26,2.66,36.79,7.56,80,1010,210, overcast clouds,07:49:07, 15:49:21,mazowieckie,powiat sierpecki
+ Grodzisk Mazowiecki,20.6337,52.1039,5.46,41.83,1.22,34.2,6.68,87,1013,208, overcast clouds,07:41:40, 15:49:05,mazowieckie,powiat grodzisk
+ Toruń,18.5981,53.0137,7.58,45.64,7.58,45.64,0.45,85,1009,334, overcast clouds,07:54:10, 15:52:52,kujawsko-pomorskie,powiat Toruń
+ Piotrków Trybunalski,19.7032,51.4055,6.53,43.75,2.53,36.55,6.84,76,1014,216, overcast clouds,07:42:11, 15:56:01,łódzkie,powiat Piotrków Trybunalski
+ Myszków,19.3246,50.5752,4.67,40.41,0.08,32.14,7.02,88,1016,221, overcast clouds,07:40:02, 16:01:11,śląskie,powiat myszkowski
+ Luboń,16.8927,52.3471,8.53,47.35,5.5,41.9,5.66,86,1006,210, broken clouds,07:57:46, 16:02:55,wielkopolskie,powiat poznański
+ Dębica,21.4114,50.0515,3.87,38.97,0.58,33.04,3.82,88,1018,179, overcast clouds,07:29:28, 15:55:03,podkarpackie,powiat dębicki
+ Kruszyn,22.7624,53.2572,4.86,40.75,0.37,32.67,6.9,87,1013,196, overcast clouds,07:38:44, 15:34:59,podlaskie,powiat moniecki
+ Ostrołęka,21.5757,53.0862,6.07,42.93,1.77,35.19,7.34,80,1012,202, broken clouds,07:42:38, 15:40:35,mazowieckie,powiat Ostrołęka
+ Radom,21.1471,51.4025,4.7,40.46,2.39,36.3,2.68,86,1015,202, overcast clouds,07:36:24, 15:50:15,mazowieckie,powiat Radom
+ Kraków,19.9167,50.0833,4.72,40.5,4.72,40.5,0.51,74,1015,0, clear sky,07:35:35, 16:00:54,małopolskie,powiat Kraków
+ Swarzędz,17.085,52.4129,8.39,47.1,5.32,41.58,5.66,82,1008,210, broken clouds,07:57:19, 16:01:50,wielkopolskie,powiat poznański
+ Tychy,18.9664,50.1372,5.25,41.45,1.17,34.11,6.1,87,1017,221, overcast clouds,07:39:36, 16:04:29,śląskie,powiat Tychy
+ Kolbuszowa,21.7761,50.2441,4.43,39.97,0.67,33.21,4.9,86,1018,194, overcast clouds,07:28:49, 15:52:47,podkarpackie,powiat kolbuszowski
+ Szczecinek,16.6994,53.7079,7.79,46.02,4.2,39.56,6.68,86,1005,216, overcast clouds,08:05:15, 15:56:58,zachodniopomorskie,powiat szczecinecki
+ Szklarki,15.7511,51.5206,8.34,47.01,5.2,41.36,5.81,84,1011,226, overcast clouds,07:58:30, 16:11:19,dolnośląskie,powiat polkowicki
+ Czarny Las,23.0668,53.6654,4.6,40.28,-0.05,31.91,7.14,87,1012,198, overcast clouds,07:39:35, 15:31:42,podlaskie,powiat augustowski
+ Jaworzno,19.275,50.2053,4.38,39.88,0.47,32.85,5.18,86,1017,220, overcast clouds,07:38:39, 16:02:58,śląskie,powiat Jaworzno
+ Tuchola,17.8591,53.5879,8.23,46.81,4.33,39.79,8.14,88,1007,212, overcast clouds,08:00:00, 15:52:57,kujawsko-pomorskie,powiat tucholski
+ Ząbkowice Śląskie,16.8124,50.5897,7.34,45.21,3.6,38.48,6.75,86,1012,226, overcast clouds,07:50:09, 16:11:11,dolnośląskie,powiat ząbkowicki
+ Mińsk Mazowiecki,21.5725,52.1794,4.92,40.86,0.61,33.1,6.46,89,1014,199, overcast clouds,07:38:16, 15:44:58,mazowieckie,powiat miński
+ Głubczyce,17.8286,50.2009,7.54,45.57,3.97,39.15,6.41,85,1016,209, overcast clouds,07:44:25, 16:08:46,opolskie,powiat głubczycki
+ Mszana Dolna,20.0799,49.6743,3.84,38.91,1.54,34.77,2.48,88,1019,191, broken clouds,07:33:13, 16:01:57,małopolskie,powiat limanowski
+ Legnica,16.1619,51.2101,8.63,47.53,5.3,41.54,6.62,80,1012,225, overcast clouds,07:55:28, 16:11:04,dolnośląskie,powiat Legnica
+ Wałbrzych,16.2843,50.7714,5.77,42.39,2.07,35.73,5.51,83,1012,218, overcast clouds,07:53:03, 16:12:31,dolnośląskie,powiat Wałbrzych
+ Piechcin,18.0409,52.826,8.36,47.05,4.52,40.14,8.06,58,1009,214, overcast clouds,07:55:29, 15:56:01,kujawsko-pomorskie,powiat żniński
+ Belsk Duży,20.8085,51.8256,4.89,40.8,0.62,33.12,6.35,77,1014,211, overcast clouds,07:39:40, 15:49:40,mazowieckie,powiat grójecki
+ Świebodzin,15.5336,52.2475,8.83,47.89,5.36,41.65,7.26,83,1009,224, overcast clouds,08:02:44, 16:08:50,lubuskie,powiat świebodziński
+ Namysłów,17.7228,51.0759,7.78,46.0,4.24,39.63,6.52,85,1013,220, overcast clouds,07:48:38, 16:05:25,opolskie,powiat namysłowski
+ Drezdenko,15.8308,52.8383,9.69,49.44,6.69,44.04,6.5,82,1007,221, overcast clouds,08:04:23, 16:04:48,lubuskie,powiat strzelecko-drezdenecki
+ Białka,19.6703,49.6931,2.92,37.26,0.55,32.99,2.38,96,1019,192, overcast clouds,07:34:56, 16:03:31,małopolskie,powiat suski
+ Olkusz,19.565,50.2813,3.61,38.5,-0.57,30.97,5.35,90,1017,226, overcast clouds,07:37:49, 16:01:29,małopolskie,powiat olkuski
+ Lądek-Zdrój,16.8795,50.3437,4.39,39.9,0.72,33.3,4.7,91,1015,216, overcast clouds,07:48:49, 16:11:58,dolnośląskie,powiat kłodzki
+ Spalona,16.5319,50.2837,2.18,35.92,-1.73,28.89,4.19,100,1013,218, light rain,07:49:57, 16:13:37,dolnośląskie,powiat kłodzki
+ Sobczyce,16.0728,51.704,8.82,47.88,5.51,41.92,6.7,83,1011,224, overcast clouds,07:58:03, 16:09:12,dolnośląskie,powiat głogowski
+ Ostrów Mazowiecka,21.8951,52.8024,5.9,42.62,1.87,35.37,6.45,80,1013,201, overcast clouds,07:39:57, 15:40:42,mazowieckie,powiat ostrowski
+ Grodziec Mały,16.0759,51.6878,8.83,47.89,5.54,41.97,6.67,83,1011,224, overcast clouds,07:57:58, 16:09:15,dolnośląskie,powiat głogowski
+ Wyszków,21.4584,52.5928,6.04,42.87,1.98,35.56,6.64,77,1013,203, overcast clouds,07:40:41, 15:43:28,mazowieckie,powiat wyszkowski
+ Lubin,16.2015,51.4009,8.73,47.71,5.47,41.85,6.47,79,1011,226, overcast clouds,07:56:10, 16:10:03,dolnośląskie,powiat lubiński
+ Koniczynka,18.6872,53.0781,7.21,44.98,7.21,44.98,0.45,85,1009,334, overcast clouds,07:54:08, 15:52:11,kujawsko-pomorskie,powiat toruński
+ Radomierzyce,14.9742,51.0598,7.8,46.04,4.26,39.67,6.55,85,1012,214, overcast clouds,07:59:33, 16:16:29,dolnośląskie,powiat zgorzelecki
+ Konin,18.2512,52.2234,7.16,44.89,3.02,37.44,7.87,84,1011,215, overcast clouds,07:51:45, 15:58:04,wielkopolskie,powiat Konin
+ Gostyń,17.0123,51.8825,8.99,48.18,5.57,42.03,7.24,80,1011,220, overcast clouds,07:55:07, 16:04:37,wielkopolskie,powiat gostyński
+ Bydgoszcz,18.0076,53.1235,8.49,47.28,5.1,41.18,6.69,86,1007,210, broken clouds,07:57:05, 15:54:41,kujawsko-pomorskie,powiat Bydgoszcz
+ Chęciny,20.4623,50.8002,3.46,38.23,-0.16,31.71,4.21,36,1016,205, broken clouds,07:36:28, 15:55:39,świętokrzyskie,powiat kielecki
+ Słone,15.3984,51.9239,7.92,46.26,4.52,40.14,6.22,42,1010,226, overcast clouds,08:01:46, 16:10:53,lubuskie,powiat zielonogórski
+ Nałęczów,22.2154,51.2858,3.6,38.48,-0.82,30.52,5.86,87,1017,194, broken clouds,07:31:36, 15:46:29,lubelskie,powiat puławski
+ Świnoujście,14.2471,53.9105,7.08,44.74,4.63,40.33,3.6,100,1002,210, overcast clouds,08:16:06, 16:05:45,zachodniopomorskie,powiat Świnoujście
+ Gać,22.359,50.0269,4.03,39.25,-0.08,31.86,5.43,85,1019,199, clear sky,07:25:34, 15:51:22,podkarpackie,powiat przeworski
+ Malbork,19.0266,54.0359,8.49,47.28,4.38,39.88,9.27,83,1006,207, overcast clouds,07:57:39, 15:45:57,pomorskie,powiat malborski
+ Tuchów,21.0541,49.8949,1.96,35.53,-1.22,29.8,3.09,89,1018,182, broken clouds,07:30:14, 15:57:09,małopolskie,powiat tarnowski
+ Tarnobrzeg,21.6794,50.573,4.01,39.22,0.68,33.22,3.94,84,1018,189, overcast clouds,07:30:37, 15:51:46,podkarpackie,powiat Tarnobrzeg
+ Wejherowo,18.2356,54.6057,8.17,46.71,6.23,43.21,3.13,93,1005,216, overcast clouds,08:03:51, 15:46:05,pomorskie,powiat wejherowski
+ Jarocin,17.5026,51.9727,7.54,45.57,3.69,38.64,7.27,82,1011,215, overcast clouds,07:53:34, 16:02:14,wielkopolskie,powiat jarociński
+ Rabka-Zdrój,19.9665,49.6089,2.37,36.27,0.24,32.43,2.06,91,1019,190, broken clouds,07:33:24, 16:02:41,małopolskie,powiat nowotarski
+ Kawice,16.4252,51.2313,8.71,47.68,5.43,41.77,6.52,75,1012,226, overcast clouds,07:54:30, 16:09:55,dolnośląskie,powiat legnicki
+ Biała,17.6604,50.3859,4.22,39.6,0.55,32.99,4.62,83,1015,214, overcast clouds,07:45:53, 16:08:40,opolskie,powiat prudnicki
+ Brzeziny,19.7514,51.8002,6.55,43.79,6.55,43.79,0.45,91,1013,0, overcast clouds,07:43:47, 15:54:01,łódzkie,powiat brzeziński
+ Rawa Mazowiecka,20.2549,51.7644,6.61,43.9,2.67,36.81,6.73,75,1014,212, overcast clouds,07:41:36, 15:52:10,łódzkie,powiat rawski
+ Oborniki,16.8141,52.6474,8.59,47.46,4.88,40.78,7.84,83,1008,218, overcast clouds,07:59:31, 16:01:48,wielkopolskie,powiat obornicki
+ Duszniki-Zdrój,16.3909,50.4033,4.2,39.56,0.37,32.67,4.93,100,1015,221, overcast clouds,07:51:02, 16:13:40,dolnośląskie,powiat kłodzki
+ Oława,17.2926,50.9466,8.54,47.37,5.15,41.27,6.73,81,1013,227, overcast clouds,07:49:47, 16:07:42,dolnośląskie,powiat oławski
+ Sandomierz,21.749,50.6827,3.07,37.53,-0.53,31.05,4.03,90,1016,186, overcast clouds,07:30:48, 15:51:01,świętokrzyskie,powiat sandomierski
+ Busko-Zdrój,20.7188,50.4708,3.21,37.78,0.09,32.16,3.36,85,1017,195, broken clouds,07:34:01, 15:56:03,świętokrzyskie,powiat buski
+ Wołomin,21.2421,52.3401,5.73,42.31,1.81,35.26,6.02,94,1013,202, overcast clouds,07:40:21, 15:45:32,mazowieckie,powiat wołomiński
+ Witków,15.5159,51.6275,8.02,46.44,4.64,40.35,6.24,85,1010,225, overcast clouds,07:59:56, 16:11:46,lubuskie,powiat żagański
+ Zawiercie,19.4168,50.4877,4.29,39.72,3.36,38.05,1.34,89,1013,227, overcast clouds,07:39:17, 16:01:12,śląskie,powiat zawierciański
+ Poznań,16.9299,52.4069,8.5,47.3,5.46,41.83,5.66,86,1007,210, broken clouds,07:57:54, 16:02:29,wielkopolskie,powiat Poznań
+ Krzyżówka,20.4787,52.0052,5.16,41.29,0.68,33.22,7.11,77,1013,209, overcast clouds,07:41:49, 15:50:10,mazowieckie,powiat żyrardowski
+ Przeworsk,22.4941,50.0591,2.67,36.81,-1.51,29.28,4.87,85,1019,194, clear sky,07:25:10, 15:50:41,podkarpackie,powiat przeworski
+ Płońsk,20.3755,52.6235,5.96,42.73,1.59,34.86,7.48,76,1012,208, overcast clouds,07:45:10, 15:47:39,mazowieckie,powiat płoński
+ Sulęcin,15.1168,52.4443,9.36,48.85,6.11,43.0,7.02,82,1008,225, overcast clouds,08:05:20, 16:09:34,lubuskie,powiat sulęciński
+ Oświęcim,19.2104,50.0344,4.81,40.66,1.31,34.36,4.57,77,1017,218, overcast clouds,07:38:12, 16:03:56,małopolskie,powiat oświęcimski
+ Dąbrowa Tarnowska,20.9863,50.1746,3.36,38.05,0.33,32.59,3.27,87,1018,187, broken clouds,07:31:41, 15:56:14,małopolskie,powiat dąbrowski
+ Warszawa,21.0118,52.2298,5.52,41.94,2.43,36.37,4.12,88,1010,180, few clouds,07:40:45, 15:46:59,mazowieckie,powiat Warszawa
+ Łuków,22.3796,51.929,3.85,38.93,-0.62,30.88,6.14,85,1016,198, broken clouds,07:33:52, 15:42:54,lubelskie,powiat łukowski
+ Polanica-Zdrój,16.5127,50.4037,5.37,41.67,1.76,35.17,5.08,100,1014,222, overcast clouds,07:50:33, 16:13:11,dolnośląskie,powiat kłodzki
+ Głogówko,16.0958,51.732,8.79,47.82,5.44,41.79,6.82,83,1011,224, overcast clouds,07:58:05, 16:08:58,dolnośląskie,powiat głogowski
+ Mielec,21.4239,50.2871,4.09,39.36,0.89,33.6,3.75,97,1018,186, overcast clouds,07:30:25, 15:54:01,podkarpackie,powiat mielecki
+ Lesko,22.3304,49.4701,1.88,35.38,-3.73,25.29,7.6,100,944,160, few clouds,07:23:23, 15:53:47,podkarpackie,powiat leski
+ Osieczów,15.4311,51.2997,7.03,44.65,3.22,37.8,6.7,84,1011,228, overcast clouds,07:58:47, 16:13:36,dolnośląskie,powiat bolesławiecki
+ Chełmno,18.4251,53.3485,7.09,44.76,4.19,39.54,4.47,78,1003,176, overcast clouds,07:56:32, 15:51:53,kujawsko-pomorskie,powiat chełmiński
+ Stargard Szczeciński,15.0116,53.309,7.85,46.13,3.79,38.82,8.32,84,1008,219, overcast clouds,08:09:59, 16:05:45,zachodniopomorskie,powiat stargardzki
+ Tarnowo Podgórne,16.6633,52.4664,8.33,46.99,5.24,41.43,5.66,87,1008,210, broken clouds,07:59:15, 16:03:16,wielkopolskie,powiat poznański
+ Jeleniów,15.4628,51.849,8.23,46.81,4.85,40.73,6.41,42,1010,227, overcast clouds,08:01:09, 16:10:58,lubuskie,powiat Zielona Góra
+ Lublin,23.0,51.0,3.71,38.68,-0.49,31.12,5.44,90,1018,197, clear sky,07:27:12, 15:44:37,lubelskie,powiat krasnostawski
+ Wolice,17.9151,52.8566,8.31,46.96,4.45,40.01,8.1,84,1009,214, overcast clouds,07:56:08, 15:56:22,kujawsko-pomorskie,powiat żniński
+ Limanowa,20.422,49.7059,1.71,35.08,-1.0,30.2,2.5,89,1019,189, broken clouds,07:31:59, 16:00:27,małopolskie,powiat limanowski
+ Piła,16.7378,53.1515,8.18,46.72,4.75,40.55,6.54,85,1007,217, overcast clouds,08:02:17, 15:59:38,wielkopolskie,powiat pilski
+ Kowary,15.8356,50.7931,5.74,42.33,2.93,37.27,3.72,95,1013,215, overcast clouds,07:54:56, 16:14:13,dolnośląskie,powiat jeleniogórski
+ Marwice,14.4169,53.1708,9.62,49.32,6.01,42.82,8.68,83,1005,220, overcast clouds,08:11:40, 16:08:50,zachodniopomorskie,powiat gryfiński
+ Łasin,19.0883,53.5179,9.02,48.24,9.02,48.24,0.45,80,999,90, overcast clouds,07:54:44, 15:48:23,kujawsko-pomorskie,powiat grudziądzki
+ Trzcianka,16.4563,53.0406,8.31,46.96,4.72,40.5,7.14,84,1007,218, overcast clouds,08:02:52, 16:01:18,wielkopolskie,powiat czarnkowsko-trzcianecki
+ Latoszyn,21.3753,50.0269,3.4,38.12,0.06,32.11,3.73,89,1018,177, overcast clouds,07:29:30, 15:55:18,podkarpackie,powiat dębicki
+ Muszyna,20.8972,49.3566,2.29,36.12,-0.29,31.48,2.48,77,1029,178, overcast clouds,07:28:39, 15:59:59,małopolskie,powiat nowosądecki
+ Ustka,16.8619,54.5805,8.14,46.65,3.71,38.68,10.15,85,1002,228, overcast clouds,08:09:12, 15:51:43,pomorskie,powiat słupski
+ Jastrzębie-Zdrój,18.5748,49.9554,7.0,44.6,3.16,37.69,6.77,83,1017,215, overcast clouds,07:40:24, 16:06:49,śląskie,powiat Jastrzębie-Zdrój
+ Leśna,15.2641,51.0243,7.66,45.79,4.61,40.3,5.12,82,1012,217, overcast clouds,07:58:14, 16:15:29,dolnośląskie,powiat lubański
+ Izbica Kujawska,18.7627,52.4207,6.75,44.15,2.49,36.48,7.86,86,1011,212, overcast clouds,07:50:38, 15:55:05,kujawsko-pomorskie,powiat włocławski
+ Odolanów,17.6743,51.5742,8.03,46.45,4.55,40.19,6.55,83,1012,213, overcast clouds,07:51:03, 16:03:22,wielkopolskie,powiat ostrowski
+ Kozienice,21.5478,51.5829,3.44,38.19,-0.68,30.78,5.13,49,1015,199, overcast clouds,07:35:36, 15:47:49,mazowieckie,powiat kozienicki
+ Hajnówka,23.5812,52.7433,2.69,36.84,-1.8,28.76,5.5,91,1015,196, scattered clouds,07:32:56, 15:34:14,podlaskie,powiat hajnowski
+ Augustów,22.9798,53.8432,4.66,40.39,0.13,32.23,6.84,86,1012,198, overcast clouds,07:40:51, 15:31:08,podlaskie,powiat augustowski
+ Rzeszów,21.999,50.0413,4.16,39.49,0.47,32.85,4.63,85,1011,0, clear sky,07:27:04, 15:52:45,podkarpackie,powiat Rzeszów
+ Goczałkowice-Zdrój,18.9661,49.9437,5.65,42.17,1.88,35.38,5.61,82,1017,218, overcast clouds,07:38:48, 16:05:18,śląskie,powiat pszczyński
+ Brzeszcze,19.1516,49.982,4.78,40.6,1.16,34.09,4.79,78,1017,218, overcast clouds,07:38:13, 16:04:24,małopolskie,powiat oświęcimski
+ Gołdap,22.3036,54.3063,4.86,40.75,-0.11,31.8,8.32,82,1010,198, broken clouds,07:45:59, 15:31:24,warmińsko-mazurskie,powiat gołdapski
+ Grab,17.7216,52.0216,7.59,45.66,3.72,38.7,7.4,82,1011,214, overcast clouds,07:52:55, 16:01:08,wielkopolskie,powiat pleszewski
+ Jelenia Góra,15.729,50.8997,6.77,44.19,3.72,38.7,4.62,91,1013,220, overcast clouds,07:55:49, 16:14:10,dolnośląskie,powiat Jelenia Góra
+ Liniewko Kościerskie,18.1813,54.1027,6.86,44.35,2.53,36.55,8.19,93,1005,212, overcast clouds,08:01:23, 15:48:59,pomorskie,powiat kościerski
+ Biłgoraj,22.722,50.5411,2.59,36.66,-1.05,30.11,3.92,90,1018,190, few clouds,07:26:18, 15:47:44,lubelskie,powiat biłgorajski
+ Szczebrzeszyn,22.9795,50.695,3.37,38.07,-0.64,30.85,4.88,89,1018,198, few clouds,07:25:56, 15:46:02,lubelskie,powiat zamojski
+ Myślibórz,14.8679,52.9238,9.45,49.01,5.85,42.53,8.42,83,1006,221, overcast clouds,08:08:39, 16:08:15,zachodniopomorskie,powiat myśliborski
+ Głogów,16.0845,51.6636,8.69,47.64,5.37,41.67,6.62,82,1011,225, overcast clouds,07:57:49, 16:09:20,dolnośląskie,powiat głogowski
+ Nakło nad Notecią,17.6018,53.1421,8.27,46.89,4.35,39.83,8.27,85,1008,214, overcast clouds,07:58:47, 15:56:13,kujawsko-pomorskie,powiat nakielski
+ Wodzisław Śląski,18.4721,50.0038,6.95,44.51,2.9,37.22,7.38,83,1017,215, overcast clouds,07:41:01, 16:07:02,śląskie,powiat wodzisławski
+ Lipnik,20.0846,49.789,3.73,38.71,1.04,33.87,2.92,84,1018,192, broken clouds,07:33:41, 16:01:28,małopolskie,powiat myślenicki
+ Słubice,14.5607,52.3509,9.64,49.35,8.0,46.4,3.13,70,1006,213, overcast clouds,08:07:07, 16:12:14,lubuskie,powiat słubicki
+ Słomniki,20.0822,50.2401,4.28,39.7,1.13,34.03,3.74,78,1017,220, broken clouds,07:35:35, 15:59:35,małopolskie,powiat krakowski
+ Wieluń,18.5696,51.221,6.58,43.84,2.66,36.79,6.65,84,1014,214, overcast clouds,07:45:53, 16:01:23,łódzkie,powiat wieluński
+ Złoczew,18.6036,51.4172,7.16,44.89,3.25,37.85,7.11,85,1013,213, overcast clouds,07:46:38, 16:00:22,łódzkie,powiat sieradzki
+ Kruszwica,18.3313,52.6756,8.65,47.57,4.87,40.77,8.19,58,1010,213, overcast clouds,07:53:35, 15:55:35,kujawsko-pomorskie,powiat inowrocławski
+ Stare Koźle,18.2201,50.3122,7.22,45.0,3.41,38.14,6.86,83,1016,208, overcast clouds,07:43:20, 16:06:44,opolskie,powiat kędzierzyńsko-kozielki
+ Nowiny,15.7477,52.6198,9.69,49.44,6.61,43.9,6.77,82,1008,222, overcast clouds,08:03:39, 16:06:12,lubuskie,powiat międzyrzecki
+ Grudziądz,18.7537,53.4841,9.06,48.31,5.47,41.85,7.91,80,1008,209, overcast clouds,07:55:54, 15:49:53,kujawsko-pomorskie,powiat Grudziądz
+ Żory,18.7006,50.0452,6.79,44.22,2.82,37.08,6.99,83,1017,220, overcast clouds,07:40:17, 16:05:56,śląskie,powiat Żory
+ Strzelin,17.0648,50.7816,8.09,46.56,4.26,39.67,7.76,80,1013,229, overcast clouds,07:49:58, 16:09:20,dolnośląskie,powiat strzeliński
+ Karpacz,15.7559,50.7767,4.84,40.71,2.03,35.65,3.4,79,1013,216, overcast clouds,07:55:11, 16:14:36,dolnośląskie,powiat jeleniogórski
+ Kozie Doły,16.0178,51.7256,8.79,47.82,5.49,41.88,6.65,84,1010,223, overcast clouds,07:58:22, 16:09:19,dolnośląskie,powiat głogowski
+ Pabianice,19.3547,51.6645,6.75,44.15,3.95,39.11,4.12,80,1012,200, broken clouds,07:44:45, 15:56:14,łódzkie,powiat pabianicki
+ Skarżysko-Kamienna,20.8716,51.1131,3.63,38.53,-0.51,31.08,5.26,78,1016,211, overcast clouds,07:36:12, 15:52:38,świętokrzyskie,powiat skarżyski
+ Kościerzyna,17.9812,54.1223,6.75,44.15,2.45,36.41,8.0,88,1005,212, overcast clouds,08:02:17, 15:49:41,pomorskie,powiat kościerski
+ Mosina,16.8471,52.2454,8.54,47.37,5.51,41.92,5.66,82,1008,210, broken clouds,07:57:28, 16:03:35,wielkopolskie,powiat poznański
+ Kłobuck,18.9367,50.9008,5.59,42.06,1.35,34.43,6.79,86,1015,217, overcast clouds,07:43:00, 16:01:19,śląskie,powiat kłobucki
+ Aleksandrów Kujawski,18.6935,52.8766,7.54,45.57,3.5,38.3,7.92,85,1010,212, overcast clouds,07:53:07, 15:53:09,kujawsko-pomorskie,powiat aleksandrowski
+ Ożarów,21.6666,50.888,2.59,36.66,-1.5,29.3,4.67,88,1017,190, broken clouds,07:32:02, 15:50:27,świętokrzyskie,powiat opatowski
+ Godów,18.4783,49.9248,7.25,45.05,3.51,38.32,6.69,83,1017,212, overcast clouds,07:40:40, 16:07:20,śląskie,powiat wodzisławski
+ Sosnowiec,19.1038,50.2868,4.9,40.82,3.48,38.26,1.79,86,1014,207, overcast clouds,07:39:41, 16:03:18,śląskie,powiat Sosnowiec
+ Gdynia,18.5319,54.5189,8.12,46.62,5.63,42.13,4.12,87,1003,210, broken clouds,08:02:12, 15:45:22,pomorskie,powiat Gdynia
+ Inowrocław,18.2639,52.7989,8.5,47.3,6.92,44.46,2.68,58,1005,0, overcast clouds,07:54:27, 15:55:15,kujawsko-pomorskie,powiat inowrocławski
+ Sępólno Krajeńskie,17.5317,53.452,8.19,46.74,4.21,39.58,8.39,89,1007,213, overcast clouds,08:00:37, 15:54:57,kujawsko-pomorskie,powiat sępoleński
+ Nowe Skalmierzyce,17.9934,51.7104,7.06,44.71,3.05,37.49,7.35,85,1012,214, overcast clouds,07:50:24, 16:01:28,wielkopolskie,powiat ostrowski
+ Koło,18.6387,52.2002,7.07,44.73,2.94,37.29,7.73,85,1011,212, overcast clouds,07:50:06, 15:56:37,wielkopolskie,powiat kolski
+ Bielsko-Biała,19.0469,49.8224,4.84,40.71,1.34,34.41,4.6,82,1026,210, overcast clouds,07:37:58, 16:05:29,śląskie,powiat Bielsko-Biała
+ Ciechanów,20.62,52.8814,5.79,42.42,1.27,34.29,7.78,77,1011,205, overcast clouds,07:45:26, 15:45:25,mazowieckie,powiat ciechanowski
+ Ciechocinek,18.7951,52.8791,7.33,45.19,3.21,37.78,7.97,85,1010,212, overcast clouds,07:52:43, 15:52:44,kujawsko-pomorskie,powiat aleksandrowski
+ Gorlice,21.1604,49.6556,1.49,34.68,-1.71,28.92,3.0,100,1019,182, overcast clouds,07:28:49, 15:57:42,małopolskie,powiat gorlicki
+ Tarnowskie Góry,18.8615,50.4455,5.16,41.29,1.72,35.1,4.63,83,1014,200, clear sky,07:41:20, 16:03:36,śląskie,powiat tarnogórski
+ Myślenice,19.9383,49.8338,4.16,39.49,1.7,35.06,2.74,84,1018,193, broken clouds,07:34:27, 16:01:52,małopolskie,powiat myślenicki
+ Nowa Ruda,16.5016,50.5801,6.61,43.9,6.61,43.9,0.89,89,1014,179, overcast clouds,07:51:21, 16:12:28,dolnośląskie,powiat kłodzki
+ Puławy,21.9694,51.4166,3.77,38.79,0.93,33.67,3.13,92,1014,186, broken clouds,07:33:10, 15:46:53,lubelskie,powiat puławski
+ Rypin,19.4094,53.066,6.88,44.38,2.63,36.73,7.95,82,1010,211, overcast clouds,07:51:11, 15:49:21,kujawsko-pomorskie,powiat rypiński
+ Ostrów Wielkopolski,17.8069,51.655,7.19,44.94,3.35,38.03,6.94,84,1012,214, overcast clouds,07:50:54, 16:02:28,wielkopolskie,powiat ostrowski
+ Maszewo Duże,19.629,52.5803,6.85,44.33,2.92,37.26,6.91,81,1011,211, overcast clouds,07:47:56, 15:50:51,mazowieckie,powiat płocki
+ Święty Krzyż,20.75,50.75,3.75,38.75,0.47,32.85,3.76,31,1017,197, overcast clouds,07:35:06, 15:54:43,świętokrzyskie,powiat kielecki
+ Elbląg,19.4088,54.1522,7.76,45.97,3.39,38.1,9.41,83,1006,208, overcast clouds,07:56:44, 15:43:49,warmińsko-mazurskie,powiat Elbląg
+ Jawor,16.1935,51.0513,7.23,45.01,3.7,38.66,6.08,80,1012,222, overcast clouds,07:54:38, 16:11:39,dolnośląskie,powiat jaworski
+ Chrzanów,19.402,50.1355,4.27,39.69,0.75,33.35,4.38,78,1017,219, overcast clouds,07:37:51, 16:02:45,małopolskie,powiat chrzanowski
+ Lubliniec,18.6844,50.669,5.53,41.95,1.35,34.43,6.56,86,1015,214, overcast clouds,07:43:00, 16:03:21,śląskie,powiat lubliniecki
+ Zgierz,19.4062,51.8556,6.67,44.01,3.85,38.93,4.12,84,1012,200, broken clouds,07:45:25, 15:55:09,łódzkie,powiat zgierski
+ Sadłogoszcz,18.0082,52.8568,8.44,47.19,4.63,40.33,8.05,58,1009,214, overcast clouds,07:55:46, 15:56:00,kujawsko-pomorskie,powiat żniński
+ Chorzów,18.9742,50.3058,4.79,40.62,2.16,35.89,3.13,86,1014,216, overcast clouds,07:40:17, 16:03:44,śląskie,powiat Chorzów
+ Pionki,21.4499,51.476,3.89,39.0,-0.11,31.8,5.11,85,1016,202, overcast clouds,07:35:31, 15:48:42,mazowieckie,powiat radomski
+ Krosno,21.7706,49.6887,3.27,37.89,-1.34,29.59,6.08,96,1019,195, few clouds,07:26:31, 15:55:08,podkarpackie,powiat Krosno
+ Małogoszcz,20.2641,50.8121,3.09,37.56,-1.15,29.93,5.19,73,1016,216, overcast clouds,07:37:18, 15:56:24,świętokrzyskie,powiat jędrzejewski
+ Nisko,22.1397,50.5199,3.62,38.52,1.51,34.72,2.24,84,1016,220, broken clouds,07:28:33, 15:50:09,podkarpackie,powiat niżański
+ Sieradz,18.7302,51.5958,7.25,45.05,3.28,37.9,7.38,83,1013,212, overcast clouds,07:46:56, 15:59:03,łódzkie,powiat sieradzki
+ Zabrze,18.7858,50.3249,5.73,42.31,3.29,37.92,3.13,83,1013,216, overcast clouds,07:41:07, 16:04:25,śląskie,powiat Zabrze
+ Kościan,16.6487,52.0883,8.83,47.89,5.27,41.49,7.58,82,1010,221, overcast clouds,07:57:31, 16:05:07,wielkopolskie,powiat kościański
+ Milicz,17.2714,51.5277,8.83,47.89,5.9,42.62,5.59,80,1012,215, overcast clouds,07:52:27, 16:05:12,dolnośląskie,powiat milicki
+ Krzeszowice,19.6322,50.1425,4.21,39.58,0.88,33.58,4.01,79,1017,220, overcast clouds,07:36:58, 16:01:48,małopolskie,powiat krakowski
+ Złockie,20.8879,49.3745,1.95,35.51,-0.77,30.61,2.56,77,1029,178, overcast clouds,07:28:46, 15:59:57,małopolskie,powiat nowosądecki
+ Mrągowo,21.3051,53.8644,6.0,42.8,1.47,34.65,8.02,80,1009,199, broken clouds,07:47:39, 15:37:43,warmińsko-mazurskie,powiat mrągowski
+ Gliwice,18.6766,50.2976,6.6,43.88,5.01,41.02,2.24,83,1014,236, overcast clouds,07:41:26, 16:04:58,śląskie,powiat Gliwice
+ Dobczyce,20.0894,49.8811,4.7,40.46,2.27,36.09,2.84,69,1018,197, broken clouds,07:34:02, 16:01:04,małopolskie,powiat myślenicki
+ Wrocław,17.0333,51.1,8.11,46.6,5.38,41.68,4.63,78,1015,220, broken clouds,07:51:29, 16:08:04,dolnośląskie,powiat Wrocław
+ Biała Podlaska,23.1165,52.0324,3.76,38.77,-0.54,31.03,5.68,90,1016,195, scattered clouds,07:31:24, 15:39:28,lubelskie,powiat Biała Podlaska
+ Leszno,16.5749,51.8403,8.67,47.61,5.12,41.22,7.38,80,1011,223, overcast clouds,07:56:40, 16:06:33,wielkopolskie,powiat Leszno
+ Tczew,18.7779,54.0924,8.27,46.89,4.13,39.43,9.12,100,1006,207, overcast clouds,07:58:57, 15:46:39,pomorskie,powiat tczewski
+ Łask,19.1328,51.5906,6.67,44.01,6.06,42.91,1.34,85,1012,187, overcast clouds,07:45:18, 15:57:28,łódzkie,powiat łaski
+ Zakopane,19.9489,49.299,-0.34,31.39,-3.52,25.66,2.59,89,1015,191, overcast clouds,07:32:13, 16:04:01,małopolskie,powiat tatrzański
+ Zduńska Wola,18.9397,51.5992,6.85,44.33,4.95,40.91,2.68,84,1012,189, overcast clouds,07:46:07, 15:58:12,łódzkie,powiat zduńskowolski
+ Płock,19.7064,52.5468,6.89,44.4,2.97,37.35,6.92,80,1011,211, overcast clouds,07:47:28, 15:50:42,mazowieckie,powiat Płock
+ Łomża,22.0593,53.1781,5.01,41.02,0.51,32.92,7.05,83,1012,201, overcast clouds,07:41:09, 15:38:11,podlaskie,powiat Łomża
+ Złoty Potok,19.438,50.7057,5.21,41.38,0.74,33.33,7.12,78,1016,222, broken clouds,07:40:09, 16:00:10,śląskie,powiat częstochowski
+ Krynica-Zdrój,20.9594,49.4222,1.49,34.68,-1.44,29.41,2.69,77,1029,178, overcast clouds,07:28:40, 15:59:28,małopolskie,powiat nowosądecki
+ Szymbark,18.1026,54.2189,6.22,43.2,1.55,34.79,8.72,93,1005,212, overcast clouds,08:02:19, 15:48:41,pomorskie,powiat kartuski
+ Kalisz,18.091,51.7611,7.23,45.01,3.24,37.83,7.44,85,1012,214, overcast clouds,07:50:15, 16:00:51,wielkopolskie,powiat Kalisz
+ Olesno,18.4209,50.877,5.61,42.1,1.77,35.19,5.76,84,1015,211, overcast clouds,07:44:58, 16:03:30,opolskie,powiat oleski
+ Opatówek,18.2165,51.7399,7.55,45.59,3.65,38.57,7.44,85,1012,213, overcast clouds,07:49:39, 16:00:27,wielkopolskie,powiat kaliski
+ Trzebinia,19.4697,50.1593,4.09,39.36,0.53,32.95,4.36,78,1017,221, overcast clouds,07:37:41, 16:02:23,małopolskie,powiat chrzanowski
+ Olsztyn,20.4942,53.7799,5.98,42.76,1.66,34.99,7.33,76,1009,202, overcast clouds,07:50:27, 15:41:25,warmińsko-mazurskie,powiat Olsztyn
+ Nowy Sącz,20.6971,49.6218,1.48,34.66,-1.49,29.32,2.73,93,1019,186, overcast clouds,07:30:32, 15:59:42,małopolskie,powiat Nowy Sącz
+ Polkowice,16.0726,51.5039,8.07,46.53,4.71,40.48,6.23,80,1011,227, overcast clouds,07:57:08, 16:10:06,dolnośląskie,powiat polkowicki
+ Wieniec-Zdrój,18.9897,52.6563,7.17,44.91,3.12,37.62,7.57,85,1010,212, overcast clouds,07:50:52, 15:53:02,kujawsko-pomorskie,powiat włocławski
+ Otwock,21.2613,52.1058,5.5,41.9,1.7,35.06,5.6,88,1014,200, overcast clouds,07:39:10, 15:46:34,mazowieckie,powiat otwocki
+ Aleksandrów Łódzki,19.3038,51.8196,6.63,43.93,3.8,38.84,4.12,81,1012,200, broken clouds,07:45:40, 15:55:44,łódzkie,powiat zgierski
+ Rawicz,16.8585,51.6095,8.82,47.88,8.82,47.88,0.89,80,1013,239, overcast clouds,07:54:29, 16:06:29,wielkopolskie,powiat rawicki
+ Radziejów,18.5277,52.6248,8.66,47.59,4.9,40.82,8.12,85,1010,213, overcast clouds,07:52:33, 15:55:02,kujawsko-pomorskie,powiat radziejowski
+ Brzeg,17.4674,50.8608,8.35,47.03,4.92,40.86,6.69,82,1014,227, overcast clouds,07:48:42, 16:07:23,opolskie,powiat brzeski
+ Bełchatów,19.3567,51.3688,6.17,43.11,2.04,35.67,6.93,77,1014,215, overcast clouds,07:43:24, 15:57:34,łódzkie,powiat bełchatowski
+ Szarów,20.2696,49.995,5.22,41.4,5.22,41.4,0.89,70,993,237, overcast clouds,07:33:48, 15:59:52,małopolskie,powiat wielicki
+ Łódź,19.5,51.5,6.36,43.45,2.26,36.07,7.01,77,1014,214, overcast clouds,07:43:25, 15:56:24,łódzkie,powiat piotrkowski
+ Rymanów-Zdrój,21.8513,49.5498,2.94,37.29,-3.46,25.77,11.18,95,1028,201, scattered clouds,07:25:38, 15:55:22,podkarpackie,powiat krośnieński
+ Ustroń,18.802,49.7215,5.12,41.22,1.94,35.49,4.11,87,1018,200, overcast clouds,07:38:32, 16:06:53,śląskie,powiat cieszyński
+ Gdańsk,18.6464,54.3521,7.73,45.91,5.15,41.27,4.12,90,1004,210, broken clouds,08:00:51, 15:45:48,pomorskie,powiat Gdańsk
+ Wleń,15.6747,51.0164,7.55,45.59,4.31,39.76,5.52,86,1012,221, overcast clouds,07:56:33, 16:13:53,dolnośląskie,powiat lwówecki
+ Żnin,17.7199,52.8496,8.06,46.51,4.1,39.38,8.17,84,1009,215, overcast clouds,07:56:53, 15:57:11,kujawsko-pomorskie,powiat żniński
+ Białe Błota,17.9162,53.0952,8.29,46.92,4.84,40.71,6.69,85,1007,210, broken clouds,07:57:18, 15:55:12,kujawsko-pomorskie,powiat bydgoski
+ Starachowice,21.0713,51.0374,3.77,38.79,-0.2,31.64,5.0,78,1016,208, overcast clouds,07:35:04, 15:52:11,świętokrzyskie,powiat starachowicki
+ Strzelce Opolskie,18.3006,50.5107,6.48,43.66,2.39,36.3,7.07,84,1015,208, overcast clouds,07:43:51, 16:05:34,opolskie,powiat strzelecki
+ Zdzieszowice,18.1235,50.4248,5.46,41.83,1.28,34.3,6.52,83,1015,205, overcast clouds,07:44:12, 16:06:38,opolskie,powiat krapkowicki
+ Hrubieszów,23.8925,50.805,3.35,38.03,-0.19,31.66,4.03,91,1019,190, scattered clouds,07:22:46, 15:41:54,lubelskie,powiat hrubieszowski
+ Skierniewice,20.1584,51.9548,6.69,44.04,2.63,36.73,7.17,75,1013,212, broken clouds,07:42:52, 15:51:41,łódzkie,powiat Skierniewice
+ Piekary Śląskie,18.9265,50.3802,5.1,41.18,1.64,34.95,4.63,84,1013,200, clear sky,07:40:48, 16:03:37,śląskie,powiat Piekary Śląskie
+ Wągrowiec,17.1996,52.8084,8.51,47.32,4.72,40.5,8.07,83,1008,216, overcast clouds,07:58:45, 15:59:28,wielkopolskie,powiat wągrowiecki
+ Bytom,18.9328,50.348,5.26,41.47,1.84,35.31,4.63,84,1013,200, clear sky,07:40:38, 16:03:44,śląskie,powiat Bytom
+ Wilczopole,22.628,51.1693,3.54,38.37,-0.56,30.99,5.14,93,1015,200, clear sky,07:29:26, 15:45:21,lubelskie,powiat lubelski
+ Uniejów,18.7931,51.9743,7.25,45.05,3.21,37.78,7.62,85,1012,210, overcast clouds,07:48:25, 15:57:03,łódzkie,powiat poddębicki
+ Kromolin,15.8847,51.6852,7.98,46.36,4.48,40.06,6.58,84,1011,224, overcast clouds,07:58:43, 16:10:02,dolnośląskie,powiat głogowski
+ Zabierzów,19.7979,50.1143,3.83,38.89,3.83,38.89,0.51,81,1015,0, clear sky,07:36:11, 16:01:15,małopolskie,powiat krakowski
+ Radzyń Chełmiński,18.9373,53.3851,9.12,48.42,9.12,48.42,0.45,80,999,90, overcast clouds,07:54:40, 15:49:39,kujawsko-pomorskie,powiat grudziądzki
+ Nowa Wies Wielka,18.0904,52.9716,8.35,47.03,4.92,40.86,6.69,76,1007,210, broken clouds,07:56:00, 15:55:06,kujawsko-pomorskie,powiat bydgoski
+ Pajęczno,18.9961,51.1445,5.7,42.26,1.57,34.83,6.55,79,1014,215, overcast clouds,07:43:50, 16:00:01,łódzkie,powiat pajęczański
+ Wschowa,16.3166,51.807,8.61,47.5,5.1,41.18,7.16,67,1010,224, overcast clouds,07:57:33, 16:07:45,lubuskie,powiat wschowski
+ Nysa,17.3344,50.4738,6.0,42.8,2.19,35.94,5.93,82,1014,230, overcast clouds,07:47:33, 16:09:35,opolskie,powiat nyski
+ Krasnobród,23.2131,50.5455,3.3,37.94,-0.53,31.05,4.51,89,1019,198, few clouds,07:24:22, 15:45:45,lubelskie,powiat zamojski
+ Bukowno,19.4596,50.2647,4.13,39.43,0.11,32.2,5.28,91,1017,225, overcast clouds,07:38:10, 16:01:58,małopolskie,powiat olkuski
+ Gniezno,17.5826,52.5348,8.05,46.49,4.14,39.45,7.98,84,1009,216, overcast clouds,07:55:54, 15:59:15,wielkopolskie,powiat gnieźnieński
+ Tomaszów Lubelski,23.4162,50.4477,2.94,37.29,-0.82,30.52,4.25,90,1019,195, few clouds,07:23:08, 15:45:21,lubelskie,powiat tomaszowski
+ Sucha Beskidzka,19.5943,49.7419,3.26,37.87,0.72,33.3,2.63,96,1018,190, overcast clouds,07:35:27, 16:03:37,małopolskie,powiat suski
+ Włocławek,19.0678,52.6482,7.14,44.85,3.11,37.6,7.47,84,1010,212, overcast clouds,07:50:31, 15:52:46,kujawsko-pomorskie,powiat Włocławek
+ Wojkowice,19.0365,50.3651,4.9,40.82,1.39,34.5,4.63,84,1014,200, clear sky,07:40:17, 16:03:14,śląskie,powiat będziński
+ Gołuchów,17.9314,51.8504,7.26,45.07,3.28,37.9,7.42,84,1012,214, overcast clouds,07:51:17, 16:01:05,wielkopolskie,powiat pleszewski
+ Nowy Dwór Mazowiecki,20.7165,52.4302,6.1,42.98,2.43,36.37,5.66,87,1011,180, broken clouds,07:42:52, 15:47:13,mazowieckie,powiat nowodworski
+ Kamienna Góra,16.0304,50.7831,5.57,42.03,2.48,36.46,4.14,78,1013,211, overcast clouds,07:54:06, 16:13:28,dolnośląskie,powiat kamiennogórski
+ Świdnica,16.4886,50.8438,7.54,45.57,3.87,38.97,6.73,85,1013,223, overcast clouds,07:52:32, 16:11:22,dolnośląskie,powiat świdnicki
+ Chojnice,17.557,53.6955,7.09,44.76,3.02,37.44,7.55,89,1006,212, overcast clouds,08:01:46, 15:53:36,pomorskie,powiat chojnicki
+ Września,17.5652,52.3251,8.34,47.01,4.61,40.3,7.65,83,1010,216, overcast clouds,07:54:58, 16:00:20,wielkopolskie,powiat wrzesiński
+ Tłuszcz,21.4356,52.4306,5.67,42.21,1.54,34.77,6.55,78,1013,203, overcast clouds,07:40:00, 15:44:20,mazowieckie,powiat wołomiński
+ Maków Podhalański,19.6771,49.7301,3.16,37.69,0.69,33.24,2.53,96,1018,187, overcast clouds,07:35:04, 16:03:20,małopolskie,powiat suski
+ Kaszów,19.7193,50.0388,3.85,38.93,3.85,38.93,0.51,79,1015,0, clear sky,07:36:11, 16:01:53,małopolskie,powiat krakowski
+ Koziegłowy,19.163,50.6003,5.02,41.04,1.54,34.77,4.63,75,1014,200, clear sky,07:40:47, 16:01:43,śląskie,powiat myszkowski
+ Kudowa-Zdrój,16.244,50.443,6.78,44.2,3.6,38.48,4.92,96,1014,220, overcast clouds,07:51:47, 16:14:05,dolnośląskie,powiat kłodzki
+ Kalwaria Zebrzydowska,19.6772,49.8676,3.25,37.85,0.72,33.3,2.62,96,1018,194, overcast clouds,07:35:38, 16:02:46,małopolskie,powiat wadowicki
+ Radzyń Podlaski,22.6167,51.7833,4.05,39.29,-0.25,31.55,5.85,88,1016,195, scattered clouds,07:32:15, 15:42:38,lubelskie,powiat radzyński
+ Piaseczno,21.024,52.0814,5.53,41.95,2.44,36.39,4.12,89,1005,180, few clouds,07:40:00, 15:47:37,mazowieckie,powiat piaseczeński
+ Krasnystaw,23.1742,50.9846,2.14,35.85,-2.46,27.57,5.42,89,1018,199, few clouds,07:26:26, 15:43:59,lubelskie,powiat krasnostawski
+ Pruszcz Gdański,18.6363,54.2622,7.72,45.9,5.14,41.25,4.12,91,1004,210, broken clouds,08:00:24, 15:46:19,pomorskie,powiat gdański
+ Biskupiec,20.9569,53.8647,5.9,42.62,1.4,34.52,7.82,79,1009,202, overcast clouds,07:49:03, 15:39:07,warmińsko-mazurskie,powiat olsztyński
+ Knurów,18.6507,50.2197,6.63,43.93,2.63,36.73,6.93,82,1016,219, overcast clouds,07:41:13, 16:05:24,śląskie,powiat gliwicki
+ Działdowo,20.17,53.2396,6.4,43.52,1.95,35.51,8.13,79,1010,207, overcast clouds,07:49:00, 15:45:27,warmińsko-mazurskie,powiat działdowski
+ Brzesko,20.6061,49.9691,3.52,38.34,0.86,33.55,2.84,86,1016,191, broken clouds,07:32:20, 15:58:38,małopolskie,powiat brzeski
+ Storkowo,16.4748,53.7961,10.06,50.11,9.34,48.81,7.73,85,1005,216, overcast clouds,08:06:36, 15:57:25,zachodniopomorskie,powiat szczecinecki
+ Kluczbork,18.2182,50.9728,5.97,42.75,2.17,35.91,5.88,84,1014,216, overcast clouds,07:46:11, 16:03:53,opolskie,powiat kluczborski
+ Chodzież,16.9198,52.995,8.21,46.78,4.48,40.06,7.54,84,1008,217, overcast clouds,08:00:47, 15:59:41,wielkopolskie,powiat chodzieski
+ Borsukowizna,23.6487,53.2188,4.76,40.57,0.58,33.04,6.03,90,1014,192, overcast clouds,07:35:00, 15:31:37,podlaskie,powiat sokolski
+ Oleśnica,17.3899,51.2134,7.82,46.08,4.3,39.74,6.5,66,994,219, overcast clouds,07:50:34, 16:06:08,dolnośląskie,powiat oleśnicki
+ Stoki,15.8135,52.5068,8.95,48.11,5.58,42.04,7.04,82,1008,221, overcast clouds,08:02:51, 16:06:29,lubuskie,powiat międzyrzecki
+ Gorzyce,21.8401,50.6672,3.41,38.14,-0.1,31.82,4.01,88,1016,186, overcast clouds,07:30:23, 15:50:43,podkarpackie,powiat tarnobrzeski
+ Krynica,20.9594,49.4222,1.49,34.68,-1.44,29.41,2.69,77,1029,178, overcast clouds,07:28:40, 15:59:28,małopolskie,powiat nowosądecki
+ Adamów,22.2641,51.7434,3.26,37.87,-1.33,29.61,6.03,84,1016,199, overcast clouds,07:33:29, 15:44:13,lubelskie,powiat łukowski
+ Florianka,22.9873,50.5566,2.16,35.89,-1.74,28.87,4.18,89,1019,194, few clouds,07:25:19, 15:46:36,lubelskie,powiat biłgorajski
+ Rejowiec Fabryczny,23.2472,51.1141,2.03,35.65,-2.66,27.21,5.55,89,1018,199, few clouds,07:26:43, 15:43:07,lubelskie,powiat chełmski
+ Suwałki,22.9309,54.1118,4.24,39.63,-0.67,30.79,7.57,87,1011,199, overcast clouds,07:42:27, 15:29:55,podlaskie,powiat Suwałki
+ Jedlina-Zdrój,16.3465,50.7201,6.09,42.96,2.36,36.25,5.79,85,1013,220, overcast clouds,07:52:34, 16:12:29,dolnośląskie,powiat wałbrzyski
+ Guty Duże,21.271,52.9366,5.92,42.66,1.57,34.83,7.38,78,1012,202, broken clouds,07:43:06, 15:42:32,mazowieckie,powiat makowski
+ Przerzeczyn-Zdrój,16.8204,50.6856,7.53,45.55,3.62,38.52,7.46,86,1012,228, overcast clouds,07:50:32, 16:10:44,dolnośląskie,powiat dzierżanowski
+ Police,14.5718,53.5521,9.57,49.23,7.68,45.82,3.58,91,1003,248, overcast clouds,08:12:58, 16:06:17,zachodniopomorskie,powiat policki
+ Solec Kujawski,18.2257,53.0837,8.59,47.46,5.22,41.4,6.69,90,1008,210, broken clouds,07:56:00, 15:54:01,kujawsko-pomorskie,powiat bydgoski
+ Januszkowice,18.1368,50.3919,6.18,43.12,2.15,35.87,6.65,83,1016,206, overcast clouds,07:44:00, 16:06:44,opolskie,powiat krapkowicki
+ Bartoszyce,20.8082,54.2535,7.0,44.6,2.49,36.48,9.02,78,1008,206, overcast clouds,07:51:41, 15:37:40,warmińsko-mazurskie,powiat bartoszycki
+ Bochnia,20.4303,49.9691,4.34,39.81,1.85,35.33,2.82,82,1017,196, broken clouds,07:33:03, 15:59:20,małopolskie,powiat bocheński
+ Trzepowo,18.2764,54.169,6.81,44.26,4.07,39.33,4.02,93,976,120, overcast clouds,08:01:21, 15:48:16,pomorskie,powiat gdański
+ Połczyn-Zdrój,16.0957,53.7642,10.05,50.09,9.36,48.85,8.47,86,1005,216, overcast clouds,08:07:57, 15:59:06,zachodniopomorskie,powiat świdwiński
+ Zgorzelec,15.0084,51.1494,7.56,45.61,5.5,41.9,3.13,90,1009,225, overcast clouds,07:59:48, 16:15:57,dolnośląskie,powiat zgorzelecki
+ Lębork,17.7501,54.5392,7.78,46.0,3.8,38.84,7.95,92,1003,214, overcast clouds,08:05:26, 15:48:23,pomorskie,powiat lęborski
+ Pszczyna,18.9538,49.9804,5.84,42.51,1.99,35.58,5.94,81,1017,220, overcast clouds,07:39:00, 16:05:12,śląskie,powiat pszczyński
+ Tomaszów Mazowiecki,20.0086,51.5313,5.21,41.38,0.91,33.64,6.65,10,1014,214, overcast clouds,07:41:32, 15:54:13,łódzkie,powiat tomaszowski
+ Żary,15.1373,51.6421,7.77,45.99,5.03,41.05,4.47,86,1009,214, overcast clouds,08:01:30, 16:13:13,lubuskie,powiat żarski
+ Zielona Góra,15.5064,51.9355,7.82,46.08,4.39,39.9,6.25,42,1010,226, overcast clouds,08:01:23, 16:10:24,lubuskie,powiat Zielona Góra
+ Lwówek Śląski,15.5858,51.1107,7.38,45.28,3.95,39.11,5.92,85,1012,224, overcast clouds,07:57:20, 16:13:49,dolnośląskie,powiat lwówecki
+ Goleniów,14.8285,53.5639,9.33,48.79,7.12,44.82,4.12,87,1004,190, broken clouds,08:12:00, 16:05:12,zachodniopomorskie,powiat goleniowski
