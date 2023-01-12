@@ -19,23 +19,24 @@ The purpose of this project was to create a weather application which presenting
 
 ## 2. Installation
 
-Make sure to use Python version 3.10. Copy the repositroy by forking and then downloading it using:
+Make sure to use **Python version 3.10**.
+Copy the repositroy by forking and then downloading it using:
 
-'''bash
+```bash
 git clone https://github.com/<YOUR-USERNAME>/APP-weather-application
-'''
+```
   
-Instal requirements use:
+Install requirements use:
   
-'''bash
+```bash
 cd APP-weather-application
 pip install -r requirements.txt
-'''
+```
   
 Run App:
 
-'''bash
+```bash
 cd APP-weather-application
 streamlit run app.py
-'''
+```
   
