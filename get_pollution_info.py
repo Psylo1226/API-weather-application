@@ -1,7 +1,5 @@
 import requests
 import sys
-import schedule
-import time
 import pandas as pd
 
 """

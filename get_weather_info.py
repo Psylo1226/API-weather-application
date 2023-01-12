@@ -2,8 +2,6 @@ import datetime as dt
 import requests
 import sys
 import pandas as pd
-import schedule
-import time
 from cities import CITIES
 from voivodeships import pomorskie, zachodniopomorskie, warminsko_mazurskie, kujawsko_pomorskie, lubuskie, \
     dolnoslaskie, wielkopolskie, lubelskie, podlaskie, podkarpackie, malopolskie, slaskie, swietokrzyskie, \
