@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">AGH-Navigator-App</h1>
 
-<div align="center">
+</div>
 
 ---
 
@@ -20,7 +20,7 @@ The purpose of this project was to create a weather application which presenting
 ## 2. Installation
 
 Make sure to use **Python version 3.10**.
-Copy the repositroy by forking and then downloading it using:
+Copy the repository by forking and then downloading it using:
 
 ```bash
 git clone https://github.com/<YOUR-USERNAME>/APP-weather-application
