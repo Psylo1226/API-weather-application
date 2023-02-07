@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/banner.png" width="700" height="350">
 </p>
-<h1 align="center">AGH-Navigator-App</h1>
+<h1 align="center">API Weather application</h1>
 
 </div>
 
