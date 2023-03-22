@@ -16,6 +16,12 @@ The purpose of this project was to create a weather application which presenting
 ## 1. App preview
 
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API.png" width="1100" height="600" />
+<img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API2.png" width="1100" height="600" />
+<img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API3.png" width="1100" height="600" />
+<img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API4.png" width="1100" height="600" />
+<img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API5.png" width="1100" height="600" />
+<img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API6.png" width="1100" height="600" />
+<img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API7.png" width="1100" height="600" />
 
 ## 2. Installation
 
