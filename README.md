@@ -20,32 +20,32 @@ The purpose of this project was to create a weather application which presenting
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API.png" width="1200" height="600" />
 </div>
 
-<h2></h2>
+<h2>List of weather stations</h2>
 <div>
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API2.png" width="1200" height="600" />
 </div>
 
-<h2></h2>
+<h2>List of contamination</h2>
 <div>
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API3.png" width="1200" height="600" />
 </div>
 
-<h2></h2>
+<h2>List of contamination presented by heatmap</h2>
 <div>
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API4.png" width="1200" height="600" />
 </div>
 
-<h2></h2>
+<h2>Results for the country</h2>
 <div>
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API5.png" width="1200" height="600" />
 </div>
 
-<h2></h2>
+<h2>Results for the provinces</h2>
 <div>
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API6.png" width="1200" height="600" />
 </div>
 
-<h2></h2>
+<h2>Results for the districts</h2>
 <div>
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API7.png" width="1200" height="600" />
 </div>
