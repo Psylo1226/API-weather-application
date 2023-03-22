@@ -17,6 +17,10 @@ The purpose of this project was to create a weather application which presenting
 
 <h2>Main page</h2>
 <div>
+  
+Using the API, the application acquires weather information and information on air pollution levels by pollen content. All this information is collected from actual weather stations that record all this data all the time. These are stored in a non-relational database such as MongoDB. Using cartographic primers in the form of GEOJSON files, we are able to average the collected results and present them in an appropriate manner. It is also possible to select the specific area for which the acquired data is to be displayed.
+The application and its functionalities are described in Polish due to the requirements set by the subject leader, as this is a project carried out as part of a university course.
+  
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API.png" width="1200" height="600" />
 </div>
 
