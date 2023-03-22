@@ -15,7 +15,7 @@ The purpose of this project was to create a weather application which presenting
 
 ## 1. App preview
 
-<img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API.png" width="1000" height="700" />
+<img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API.png" width="1000" height="600" />
 
 ## 2. Installation
 
