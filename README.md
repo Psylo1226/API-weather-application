@@ -18,7 +18,9 @@ The purpose of this project was to create a weather application which presenting
 <div>
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API.png" width="1200" height="600" />
 </div>
+<div>
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API2.png" width="1200" height="600" />
+</div>
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API3.png" width="1200" height="600" />
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API4.png" width="1200" height="600" />
 <img src="https://github.com/Psylo1226/APP-weather-application/blob/main/pictures/API5.png" width="1200" height="600" />
