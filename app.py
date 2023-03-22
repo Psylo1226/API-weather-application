@@ -145,47 +145,47 @@ class Stations(Map):
         <table style = "height: 126px; width: 350px;">
     <tbody>
     <tr>
-    <td style = "background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Temperature celsius</span></td>
+    <td style = "background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Temperatura w °C</span></td>
     <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(Temperature_cel) + """
     </tr>
     <tr>
-    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Temperature fahrenheit</span></td>
+    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Temperatura w °F</span></td>
     <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(Temperature_fah) + """
     </tr>
     <tr>
-    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Feels like celsius</span></td>
+    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Temperatura odczuwalna w °C</span></td>
     <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(Feels_like_cel) + """
     </tr>
     <tr>
-    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Feels like fahrenheit</span></td>
+    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Temperatura odczuwalna w °F</span></td>
     <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(Feels_like_fah) + """
     </tr>
     <tr>
-    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Wind speed</span></td>
+    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Prędkość wiatru</span></td>
     <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(Wind_speed) + """
     </tr>
     <tr>
-    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Humidity</span></td>
+    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Wilgotność</span></td>
     <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(Humidity) + """
     </tr>
     <tr>
-    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Pressure</span></td>
+    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Ciśnienie</span></td>
     <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(Pressure) + """
     </tr>
     <tr>
-    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Degree of wind</span></td>
+    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Kąt wiatru</span></td>
     <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(Degree) + """
     </tr>
     <tr>
-    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Description</span></td>
+    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Opis pogody</span></td>
     <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(Description) + """
     </tr>
     <tr>
-    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Sunrise time</span></td>
+    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Godzina wschodu Słońca</span></td>
     <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(Sunrise_time) + """
     </tr>
     <tr>
-    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Sunset time</span></td>
+    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Godzina zachodu Słońca</span></td>
     <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(Sunset_time) + """
     </tr>
     </tbody>
@@ -218,7 +218,7 @@ class Editors:
         self.province_list.sort()
         self.counties_list = self.df['Province'].unique()
         self.counties_list.sort()
-        self.type_of_division = ['', 'Panstwo', 'Wojewodztwa', 'Powiaty']
+        self.type_of_division = ['', 'Państwo', 'Województwa', 'Powiaty']
         self.lista = ['temp_cel', 'temp_fah', 'feels_cel', 'feels_fah', 'wind_speed', 'humidity', 'pressure', 'degree']
         self.Country = 'Poland'
 
@@ -250,21 +250,21 @@ class Editors:
         for feature in choropleth.geojson.data['features']:
             level = feature['properties']['nazwa']
             if level in df.index:
-                feature['properties']['temp_cel'] = 'Temperature in celsius: ' + str(
+                feature['properties']['temp_cel'] = 'Temperatura w °C: ' + str(
                     df.loc[level, 'Temperature_cel'].mean().round(2)) + str('')
-                feature['properties']['temp_fah'] = 'Temperature in fahrenheit: ' + str(
+                feature['properties']['temp_fah'] = 'Temperatura w °F: ' + str(
                     df.loc[level, 'Temperature_fah'].mean().round(2)) + str('')
-                feature['properties']['feels_cel'] = 'Feels like in celsius: ' + str(
+                feature['properties']['feels_cel'] = 'Temperatura odczuwalna w °C: ' + str(
                     df.loc[level, 'Feels_like_cel'].mean().round(2)) + str('')
-                feature['properties']['feels_fah'] = 'Feels like in fahrenheit: ' + str(
+                feature['properties']['feels_fah'] = 'Temperatura odczuwalna w °F: ' + str(
                     df.loc[level, 'Feels_like_fah'].mean().round(2)) + str('')
-                feature['properties']['wind_speed'] = 'Wind speed: ' + str(
+                feature['properties']['wind_speed'] = 'Prędkość wiatru: ' + str(
                     df.loc[level, 'Wind_speed'].mean().round(2)) + str('m/s')
-                feature['properties']['humidity'] = 'Humidity: ' + str(
+                feature['properties']['humidity'] = 'Wilgotność: ' + str(
                     df.loc[level, 'Humidity'].mean().round(2)) + str('%')
-                feature['properties']['pressure'] = 'Pressure: ' + str(
+                feature['properties']['pressure'] = 'Ciśnienie: ' + str(
                     df.loc[level, 'Pressure'].mean().round(2)) + str('hPa')
-                feature['properties']['degree'] = 'Degree of wind: ' + str(
+                feature['properties']['degree'] = 'Kąt wiatru: ' + str(
                     df.loc[level, 'Degree'].mean().round(2)) + str('')
             else:
                 feature['properties']['temp_cel'] = 'No data'
@@ -306,14 +306,14 @@ class Editors:
         total_degree = df['Degree'].sum() / len(df['Degree'])
 
         for feature in choropleth.geojson.data['features']:
-            feature['properties']['temp_cel'] = 'Temperature in celsius: ' + str('{:.2f}'.format(total_cel))
-            feature['properties']['temp_fah'] = 'Temperature in fahrenheit: ' + str('{:.2f}'.format(total_fah))
-            feature['properties']['feels_cel'] = 'Feels like in celsius: ' + str('{:.2f}'.format(total_feels_cel))
-            feature['properties']['feels_fah'] = 'Feels like in fahrenheit: ' + str('{:.2f}'.format(total_feels_fah))
-            feature['properties']['wind_speed'] = 'Wind speed: ' + str('{:.2f}'.format(total_wind_speed))
-            feature['properties']['humidity'] = 'Humidity: ' + str('{:.2f}'.format(total_humidity))
-            feature['properties']['pressure'] = 'Pressure: ' + str('{:.2f}'.format(total_pressure))
-            feature['properties']['degree'] = 'Degree of wind: ' + str('{:.2f}'.format(total_degree))
+            feature['properties']['temp_cel'] = 'Temperatura w °C: ' + str('{:.2f}'.format(total_cel))
+            feature['properties']['temp_fah'] = 'Temperatura w °F: ' + str('{:.2f}'.format(total_fah))
+            feature['properties']['feels_cel'] = 'Temperatura odczuwalna w °C: ' + str('{:.2f}'.format(total_feels_cel))
+            feature['properties']['feels_fah'] = 'Temperatura w °F: ' + str('{:.2f}'.format(total_feels_fah))
+            feature['properties']['wind_speed'] = 'Prędkość wiatru: ' + str('{:.2f}'.format(total_wind_speed))
+            feature['properties']['humidity'] = 'Wilgotność: ' + str('{:.2f}'.format(total_humidity))
+            feature['properties']['pressure'] = 'Ciśnienie: ' + str('{:.2f}'.format(total_pressure))
+            feature['properties']['degree'] = 'Kąt wiatru: ' + str('{:.2f}'.format(total_degree))
 
         choropleth.geojson.add_child(
             folium.features.GeoJsonTooltip(
@@ -323,14 +323,14 @@ class Editors:
         folium_static(m, width=1000, height=500)
 
     def combined_stats(self, df, division):
-        metric_temp_cel = f'Temperature in celsius:'
-        metric_temp_fah = f'Temperature in fahrenheit:'
-        metric_feels_cel = f'Feels like in celsius:'
-        metric_feels_fah = f'Feels like in fahrenheit:'
-        metric_wind_speed = f'Wind speed:'
-        metric_humidity = f'Humidity:'
-        metric_pressure = f'Pressure:'
-        metric_degree = f'Degree of wind:'
+        metric_temp_cel = f'Temperatura w °C:'
+        metric_temp_fah = f'Temperatura w °F:'
+        metric_feels_cel = f'Temperatura odczuwalna w °C:'
+        metric_feels_fah = f'Temperatura w °F:'
+        metric_wind_speed = f'Prędkość wiatru:'
+        metric_humidity = f'Wilgotność:'
+        metric_pressure = f'Ciśnienie:'
+        metric_degree = f'Kąt wiatru:'
 
         # Filter df by Voivodeship or Province
         if division == self.Voivodeship:
@@ -384,10 +384,10 @@ class App:
     DESCRIPTION = '# This app was created using API weather, air pollution and GIS data from Poland \
                   to real-time weather conditions monitoring.'
     AUTHOR = 'Aplikacja stworzona przez Kamil Sarzyniak w 2023'
-    MAIN_TITLE = ':blue[_Praca inżynierska dla kierunku Automatyka i Robotyka wykonana w roku 2023 jako aplikacja przedstawiającą aktualną sytuację pogodową w Polsce_]'
+    MAIN_TITLE = ':blue[_Aplikacja monitorująca warunki pogodowe na terenie Polski_]'
     WIDGET_TITLE = 'Wybierz co chcesz wyświetlić'
-    MAP_WINDOW_WIDTH = 800
-    MAP_WINDOW_HEIGHT = 500
+    MAP_WINDOW_WIDTH = 1100
+    MAP_WINDOW_HEIGHT = 700
 
     def __init__(self):
         self.pollution = Pollution()
@@ -448,10 +448,10 @@ class App:
                 folium_static(self.pollution.m, width=self.MAP_WINDOW_WIDTH, height=self.MAP_WINDOW_HEIGHT)
             case ('', (_, _, False)):
                 st.subheader('Możesz wybrać tylko jeden typ mapy!!!')
-            case ('Panstwo', (' ', ' ', False)):
+            case ('Państwo', (' ', ' ', False)):
                 self.editors.country(self.df, self.editors.df_country), self.editors.combined_stats(self.df,
                                                                                                     division=self.editors.Country)
-            case ('Wojewodztwa', (' ', ' ', False)):
+            case ('Województwa', (' ', ' ', False)):
                 self.editors.display(self.df, level=self.editors.Voivodeship), self.editors.combined_stats(self.df,
                                                                                                            division=self.editors.Voivodeship)
             case ('Powiaty', (' ', ' ', False)):
